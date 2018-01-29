@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="114" x="24" y="59" width="425" measuredWidth="425" measuredHeight="462">
+    <widgets xsi:type="model:Panel" id="115" width="425" height="462" measuredWidth="425" measuredHeight="462"/>
+    <widgets xsi:type="model:HLine" id="116" y="48" width="421" measuredWidth="421" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="118" x="398" y="18" width="12" measuredWidth="12" measuredHeight="16" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="119" x="371" y="18" width="12" measuredWidth="12" measuredHeight="16" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="120" x="339" y="21" width="12" measuredWidth="12" measuredHeight="16" icon="minus (small)"/>
+    <widgets xsi:type="model:Label" id="121" x="133" y="12" width="158" text="*Additional Software*" measuredWidth="158" measuredHeight="28">
+      <font size="14px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="123" x="40" y="189" width="393" height="58" measuredWidth="393" measuredHeight="58"/>
+  <widgets xsi:type="model:Text" id="125" x="54" y="203" text="*Mumble*&#xA;Low latency VoIP encrypted client" measuredWidth="176" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="127" x="395" y="207" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
+  <widgets xsi:type="model:Panel" id="182" x="40" y="239" width="393" height="58" measuredWidth="393" measuredHeight="58"/>
+  <widgets xsi:type="model:Text" id="183" x="54" y="253" text="*VLC*&#xA;Multimedia player and streamer" measuredWidth="165" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="184" x="395" y="257" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
+  <widgets xsi:type="model:Panel" id="185" x="40" y="289" width="393" height="58" measuredWidth="393" measuredHeight="58"/>
+  <widgets xsi:type="model:Text" id="186" x="54" y="303" text="*Mines*&#xA;Popular minesweeper puzzle game for GNOME" measuredWidth="245" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="187" x="395" y="307" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
+  <widgets xsi:type="model:Panel" id="191" x="40" y="339" width="393" height="58" measuredWidth="393" measuredHeight="58"/>
+  <widgets xsi:type="model:Text" id="192" x="54" y="353" text="*Frozen Bubble*&#xA;Cool game where you pop out the bubbles!" measuredWidth="225" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="193" x="395" y="357" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
+  <widgets xsi:type="model:Panel" id="194" x="40" y="389" width="393" height="58" measuredWidth="393" measuredHeight="58"/>
+  <widgets xsi:type="model:Text" id="195" x="54" y="403" text="*SM*&#xA;Display a short text fullscreen" measuredWidth="156" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="196" x="395" y="407" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
+  <widgets xsi:type="model:Text" id="200" x="45" y="465" width="346" height="41" text="To add more software, install it first using either [Synaptic] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
+    <font/>
+    <items x="253" y="0" width="45" height="16" text="Synaptic"/>
+    <items x="0" y="0" width="336" height="32" text="APT on the command line"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="201" x="45" y="135" width="346" height="45" text="The following software is installed automatically from your persistent storage every time you start Tails." measuredWidth="346" measuredHeight="45">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="203" x="312" y="203" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="204" x="312" y="252" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="205" x="312" y="300" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="206" x="312" y="351" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="207" x="312" y="402" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Note" id="208" x="455" y="189" width="347" height="332" text="The switch would activate or deactivate the package for automatic installation every time Tails is started.&#xA;&#xA;The delete cross would remove the package from the persistent storage.&#xA;&#xA;In P7's mental model, these were 2 very different actions and he would not use the delete cross to stop installing Mumble every time you start Tails because he wanted to keep it saved in the persistent storage.&#xA;&#xA;Having these 2 states might be relevant for example to people who want to speed up the installation process by removing some packages while keeping them around for future use, especially when working offline.&#xA;&#xA;We will not implement this in our first iteration as it would require have 2 different states for each package in the configuration file." measuredWidth="347" measuredHeight="332" textAlignment="Left">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>
