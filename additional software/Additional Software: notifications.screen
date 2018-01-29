@@ -20,10 +20,10 @@
   <widgets xsi:type="model:Text" id="191" x="91" y="209" text="*Remove Mumble from your additional software?*" measuredWidth="264" measuredHeight="16" foreground="#fff">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="192" x="209" y="231" text="Remove from Persistent Storage" measuredWidth="189" measuredHeight="26">
+  <widgets xsi:type="model:Button" id="192" x="244" y="231" text="Stop Installing Every Time" measuredWidth="155" measuredHeight="26">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="193" x="155" y="231" text="Keep" measuredWidth="46" measuredHeight="26">
+  <widgets xsi:type="model:Button" id="193" x="182" y="231" text="Cancel" measuredWidth="55" measuredHeight="26">
     <font/>
   </widgets>
   <widgets xsi:type="model:Panel" id="201" x="32" y="314" width="377" height="127" measuredWidth="377" measuredHeight="127" background="#000"/>

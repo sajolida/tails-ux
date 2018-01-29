@@ -20,12 +20,6 @@
   <widgets xsi:type="model:Text" id="191" x="91" y="269" text="*Remove from your additional software?*&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines" measuredWidth="218" measuredHeight="80" foreground="#fff">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="192" x="209" y="361" text="Remove from Persistent Storage" measuredWidth="189" measuredHeight="26">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Button" id="193" x="155" y="361" text="Keep" measuredWidth="46" measuredHeight="26">
-    <font/>
-  </widgets>
   <widgets xsi:type="model:Panel" id="201" x="32" y="414" width="377" height="195" measuredWidth="377" measuredHeight="195" background="#000"/>
   <widgets xsi:type="model:Icon" id="202" x="47" y="430" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
   <widgets xsi:type="model:Text" id="203" x="91" y="429" width="308" height="132" text="*Add to your additional software?*&#xA;To install the following software automatically every time you start Tails, you can create a persistent storage and activate the *Additional Software* feature:&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines&#xA;" measuredWidth="308" measuredHeight="132" foreground="#fff">
@@ -68,6 +62,12 @@
     <font/>
   </widgets>
   <widgets xsi:type="model:Button" id="247" x="524" y="521" text="Install only once" measuredWidth="104" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="248" x="242" y="363" text="Stop Installing Every Time" measuredWidth="155" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="249" x="180" y="363" text="Cancel" measuredWidth="55" measuredHeight="26">
     <font/>
   </widgets>
   <hRuler/>
