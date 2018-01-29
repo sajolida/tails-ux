@@ -35,10 +35,10 @@
     <widgets xsi:type="model:Icon" id="127" x="315" y="18" width="24" height="24" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
   </widgets>
   <widgets xsi:type="model:Icon" id="138" x="200" y="414" measuredWidth="48" measuredHeight="48" icon="assets/package-x-generic (xlarge)"/>
-  <widgets xsi:type="model:Text" id="139" x="54" y="475" width="328" height="94" text="You can install additional software automatically from your persistent storage every time you start Tais.&#xA;&#xA;To do so, install it first using either [Synaptic] or [APT on the command line]." measuredWidth="328" measuredHeight="94">
+  <widgets xsi:type="model:Text" id="139" x="54" y="475" width="328" height="94" text="You can install additional software automatically from your persistent storage every time you start Tais.&#xA;&#xA;To do so, install it first using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="328" measuredHeight="94">
     <font/>
-    <items x="184" y="48" width="45" height="16" text="Synaptic"/>
-    <items x="0" y="48" width="302" height="32" text="APT on the command line"/>
+    <items x="184" y="48" width="140" height="16" text="Synaptic Package Manager"/>
+    <items x="14" y="64" width="132" height="16" text="APT on the command line"/>
   </widgets>
   <widgets xsi:type="model:WidgetGroup" id="161" x="414" y="59" measuredWidth="384" measuredHeight="265">
     <widgets xsi:type="model:Panel" id="162" width="384" height="265" measuredWidth="384" measuredHeight="265"/>
@@ -62,10 +62,10 @@
     <items x="244" y="94" width="80" height="25" text="Remove"/>
     <font/>
   </widgets>
-  <widgets xsi:type="model:Text" id="184" x="45" y="275" width="346" height="41" text="To add more software, install it first using either [Synaptic] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
+  <widgets xsi:type="model:Text" id="184" x="45" y="275" width="346" height="41" text="To add more software, install it first using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
     <font/>
-    <items x="253" y="0" width="45" height="16" text="Synaptic"/>
-    <items x="0" y="0" width="336" height="32" text="APT on the command line"/>
+    <items x="0" y="0" width="298" height="32" text="Synaptic Package Manager"/>
+    <items x="109" y="16" width="132" height="16" text="APT on the command line"/>
   </widgets>
   <hRuler/>
   <vRuler>
