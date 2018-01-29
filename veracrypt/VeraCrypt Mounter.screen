@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Window" id="114" x="126" y="64" width="523" height="180" text="VeraCrypt Mounter" measuredWidth="523" measuredHeight="180"/>
+  <widgets xsi:type="model:Label" id="115" x="166" y="112" text="Mount a container:" measuredWidth="102" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="116" x="500" y="111" width="114" height="24" text="Browse..." measuredWidth="114" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="117" x="166" y="152" text="Mount a partition:" measuredWidth="98" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="122" x="442" y="152" text="No VeraCrypt partition detected." measuredWidth="176" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Alert" id="125" x="46" y="263" height="132" text="Alert&#xA;This file doesn't look like a VeraCrypt container.&#xA;Try to mount anyway...,Cancel" measuredWidth="335" measuredHeight="132" icon="warning (large)">
+    <items x="27" y="92" width="139" height="25" text="Try to mount anyway..."/>
+    <items x="181" y="92" width="139" height="25" text="Cancel"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="144" x="432" y="472" text="{pdf} container.pdf" measuredWidth="94" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="152" x="166" y="192" text="To create VeraCrypt volumes use GNOME Disks:" measuredWidth="259" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="153" x="500" y="192" width="114" height="24" text="Start GNOME Disks" measuredWidth="114" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Window" id="154" x="432" y="263" width="360" height="177" text="Document Viewer" measuredWidth="360" measuredHeight="177"/>
+  <widgets xsi:type="model:Text" id="155" x="449" y="334" text="Unable to open document &quot;container.pdf&quot;.&#xA;&#xA;File type unknown (application/octet-stream) is not supported." measuredWidth="327" measuredHeight="48">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="163" x="49" y="416" measuredWidth="360" measuredHeight="209">
+    <widgets xsi:type="model:Window" id="164" width="360" height="209" text="Open file..." measuredWidth="360" measuredHeight="209"/>
+    <widgets xsi:type="model:Panel" id="165" x="3" y="22" width="104" height="184" measuredWidth="104" measuredHeight="184" background="#ccc" border="none"/>
+    <widgets xsi:type="model:Panel" id="166" x="111" y="29" width="242" height="124" measuredWidth="242" measuredHeight="124"/>
+    <widgets xsi:type="model:Button" id="167" x="299" y="166" width="54" text="Open" measuredWidth="54" measuredHeight="26">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" id="168" x="233" y="166" width="57" text="Cancel" measuredWidth="57" measuredHeight="26">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="169" x="9" y="31" text="{closed} Desktop" measuredWidth="65" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="170" x="9" y="55" text="{closed} Downloads" measuredWidth="80" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="171" x="9" y="104" text="{closed} Videos" measuredWidth="56" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="172" x="9" y="80" text="{closed} Music" measuredWidth="51" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="173" x="9" y="129" text="{closed} TOSHIBA   {eject}" measuredWidth="94" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

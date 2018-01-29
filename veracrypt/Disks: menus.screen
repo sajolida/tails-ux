@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Popup" id="120" x="288" y="88" text="Format Partition...&#xA;---&#xA;Edit Partition...&#xA;Edit Filesystem...&#xA;Change Passphrase...&#xA;---&#xA;Edit Mount Options...&#xA;Edit Encryption Options...&#xA;---&#xA;Create Partition Image...&#xA;Restore Partition Image...&#xA;Benchmark Partition..." measuredWidth="162" measuredHeight="256">
+    <items x="0" y="2" width="162" height="24" text="Format Partition..."/>
+    <items x="0" y="26" width="162" height="12" text="---"/>
+    <items x="0" y="38" width="162" height="24" text="Edit Partition..."/>
+    <items x="0" y="62" width="162" height="24" text="Edit Filesystem..."/>
+    <items x="0" y="86" width="162" height="24" text="Change Passphrase..."/>
+    <items x="0" y="110" width="162" height="12" text="---"/>
+    <items x="0" y="122" width="162" height="24" text="Edit Mount Options..."/>
+    <items x="0" y="146" width="162" height="24" text="Edit Encryption Options..."/>
+    <items x="0" y="170" width="162" height="12" text="---"/>
+    <items x="0" y="182" width="162" height="24" text="Create Partition Image..."/>
+    <items x="0" y="206" width="162" height="24" text="Restore Partition Image..."/>
+    <items x="0" y="230" width="162" height="24" text="Benchmark Partition..."/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="122" x="56" y="88" text="Format Disk...&#xA;---&#xA;Create Disk Image...&#xA;Restore Disk Image...&#xA;Benchmark disk...&#xA;---&#xA;%(color:gray)SMART Data &amp; Self-Tests...%&#xA;%(color:gray)Drive Settings...%&#xA;---&#xA;%(color:gray)Standby Now%&#xA;Power Off..." measuredWidth="174" measuredHeight="232">
+    <items x="0" y="2" width="174" height="24" text="Format Disk..."/>
+    <items x="0" y="26" width="174" height="12" text="---"/>
+    <items x="0" y="38" width="174" height="24" text="Create Disk Image..."/>
+    <items x="0" y="62" width="174" height="24" text="Restore Disk Image..."/>
+    <items x="0" y="86" width="174" height="24" text="Benchmark disk..."/>
+    <items x="0" y="110" width="174" height="12" text="---"/>
+    <items x="0" y="122" width="174" height="24" text="%(color:gray)SMART Data &amp; Self-Tests...%"/>
+    <items x="0" y="146" width="174" height="24" text="%(color:gray)Drive Settings...%"/>
+    <items x="0" y="170" width="174" height="12" text="---"/>
+    <items x="0" y="182" width="174" height="24" text="%(color:gray)Standby Now%"/>
+    <items x="0" y="206" width="174" height="24" text="Power Off..."/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="128" x="122" y="47" width="55" text="Places ▼" measuredWidth="55" measuredHeight="24" foreground="#fff">
+    <font bold="true" italic="false"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="131" x="512" y="88" measuredWidth="77" measuredHeight="26">
+    <widgets xsi:type="model:Panel" id="125" width="77" height="26" measuredWidth="77" measuredHeight="26" background="#000"/>
+    <widgets xsi:type="model:Label" id="130" x="14" y="1" width="55" text="Disks ▼" measuredWidth="55" measuredHeight="24" foreground="#fff">
+      <font bold="true" italic="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="133" x="512" y="168" text="Attach Disk Image...&#xA;---&#xA;Help&#xA;About&#xA;Quit" measuredWidth="134" measuredHeight="112">
+    <items x="0" y="2" width="134" height="24" text="Attach Disk Image..."/>
+    <items x="0" y="26" width="134" height="12" text="---"/>
+    <items x="0" y="38" width="134" height="24" text="Help"/>
+    <items x="0" y="62" width="134" height="24" text="About"/>
+    <items x="0" y="86" width="134" height="24" text="Quit"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="134" x="288" y="365" text="Format Partition...&#xA;---&#xA;Edit Partition...&#xA;Edit Filesystem...&#xA;%(color:gray)Change Passphrase...%&#xA;---&#xA;Edit Mount Options...&#xA;%(color:gray)Edit Encryption Options...%&#xA;---&#xA;Create Partition Image...&#xA;Restore Partition Image...&#xA;Benchmark Partition..." measuredWidth="162" measuredHeight="256">
+    <items x="0" y="2" width="162" height="24" text="Format Partition..."/>
+    <items x="0" y="26" width="162" height="12" text="---"/>
+    <items x="0" y="38" width="162" height="24" text="Edit Partition..."/>
+    <items x="0" y="62" width="162" height="24" text="Edit Filesystem..."/>
+    <items x="0" y="86" width="162" height="24" text="%(color:gray)Change Passphrase...%"/>
+    <items x="0" y="110" width="162" height="12" text="---"/>
+    <items x="0" y="122" width="162" height="24" text="Edit Mount Options..."/>
+    <items x="0" y="146" width="162" height="24" text="%(color:gray)Edit Encryption Options...%"/>
+    <items x="0" y="170" width="162" height="12" text="---"/>
+    <items x="0" y="182" width="162" height="24" text="Create Partition Image..."/>
+    <items x="0" y="206" width="162" height="24" text="Restore Partition Image..."/>
+    <items x="0" y="230" width="162" height="24" text="Benchmark Partition..."/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="135" x="58" y="365" text="Format Partition...&#xA;---&#xA;Edit Partition...&#xA;%(color:gray)Edit Filesystem...%&#xA;Change Passphrase...&#xA;---&#xA;%(color:gray)Edit Mount Options...%&#xA;Edit Encryption Options...&#xA;---&#xA;Create Partition Image...&#xA;Restore Partition Image...&#xA;Benchmark Partition..." measuredWidth="162" measuredHeight="256">
+    <items x="0" y="2" width="162" height="24" text="Format Partition..."/>
+    <items x="0" y="26" width="162" height="12" text="---"/>
+    <items x="0" y="38" width="162" height="24" text="Edit Partition..."/>
+    <items x="0" y="62" width="162" height="24" text="%(color:gray)Edit Filesystem...%"/>
+    <items x="0" y="86" width="162" height="24" text="Change Passphrase..."/>
+    <items x="0" y="110" width="162" height="12" text="---"/>
+    <items x="0" y="122" width="162" height="24" text="%(color:gray)Edit Mount Options...%"/>
+    <items x="0" y="146" width="162" height="24" text="Edit Encryption Options..."/>
+    <items x="0" y="170" width="162" height="12" text="---"/>
+    <items x="0" y="182" width="162" height="24" text="Create Partition Image..."/>
+    <items x="0" y="206" width="162" height="24" text="Restore Partition Image..."/>
+    <items x="0" y="230" width="162" height="24" text="Benchmark Partition..."/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

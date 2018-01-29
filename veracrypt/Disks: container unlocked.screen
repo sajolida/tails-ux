@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="139" x="37" y="300" measuredWidth="357" measuredHeight="131">
+    <widgets xsi:type="model:Panel" id="140" x="1" y="81" width="355" height="50" measuredWidth="355" measuredHeight="50" background="#ccc" border="none"/>
+    <widgets xsi:type="model:Panel" id="141" width="357" height="130" measuredWidth="357" measuredHeight="130" alpha="0"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="114" x="101" y="77" measuredWidth="141" measuredHeight="40">
+    <widgets xsi:type="model:Label" id="115" text="52 MB Loop Device" measuredWidth="141" measuredHeight="32" icon="assets/drive-harddisk (large)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="116" x="37" y="17" text="~/container" measuredWidth="60" measuredHeight="23">
+      <font size="11px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="138" x="55" y="457" measuredWidth="300" measuredHeight="54">
+    <widgets xsi:type="model:Text" id="127" text="Size&#xA;Device&#x9;&#xA;Contents&#xA;" measuredWidth="48" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="128" x="68" text="52 MB&#xA;/dev/loop0 (Read-Only)&#xA;VeraCrypt/TrueCrypt Encryption -- Unlocked&#xA;" measuredWidth="232" measuredHeight="54" lineHeight="1.5">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="129" x="40" y="180" measuredWidth="145" measuredHeight="56">
+    <widgets xsi:type="model:Text" id="130" text="Size&#xA;Auto-clear&#xA;Backing File&#xA;" measuredWidth="63" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="131" x="86" text="52 MB&#xA;&#xA;~/container" measuredWidth="59" measuredHeight="56" lineHeight="1.7">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Switch" id="132" x="86" y="18" width="59" height="18" text="ON,OFF" measuredWidth="59" measuredHeight="18" background="#3d85c6">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Label" id="133" x="172" y="308" text="52 MB TCRYPT" measuredWidth="86" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="135" x="186" y="342" text="Filesystem&#xA;52 MB FAT" measuredWidth="58" measuredHeight="32" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="142" x="37" y="276" text="Volumes" measuredWidth="53" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="152" x="93" y="388" width="36" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/emblem-system (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="153" x="366" y="315" measuredWidth="24" measuredHeight="24" icon="assets/system-unlock-screen (medium)"/>
+  <widgets xsi:type="model:Button" id="154" x="49" y="388" width="36" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/system-lock-screen (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="158" x="455" y="457" measuredWidth="188" measuredHeight="54">
+    <widgets xsi:type="model:Text" id="159" text="Size&#xA;Device&#x9;&#xA;Contents&#xA;" measuredWidth="48" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="160" x="68" text="52 MB&#xA;/dev/mapper/container&#xA;FAT" measuredWidth="120" measuredHeight="54" lineHeight="1.5">
+      <font/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

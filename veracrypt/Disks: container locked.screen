@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="114" x="51" y="97" measuredWidth="141" measuredHeight="40">
+    <widgets xsi:type="model:Label" id="115" text="52 MB Loop Device" measuredWidth="141" measuredHeight="32" icon="assets/drive-harddisk (large)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="116" x="37" y="17" text="~/container" measuredWidth="60" measuredHeight="23">
+      <font size="11px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="136" x="295" y="357" measuredWidth="223" measuredHeight="54">
+    <widgets xsi:type="model:Text" id="118" text="Size&#xA;Device&#x9;&#xA;Contents&#xA;" measuredWidth="48" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="119" x="68" text="52 MB&#xA;/dev/loop0 (Read-Only)&#xA;Possibly Encrypted -- Locked&#xA;" measuredWidth="155" measuredHeight="54" lineHeight="1.5">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Label" id="124" x="405" y="232" text="52 MB Encrypted?" measuredWidth="101" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="139" x="277" y="200" measuredWidth="357" measuredHeight="131">
+    <widgets xsi:type="model:Panel" id="140" x="1" y="81" width="355" height="50" measuredWidth="355" measuredHeight="50" background="#ccc" border="none"/>
+    <widgets xsi:type="model:Panel" id="141" width="357" height="130" measuredWidth="357" measuredHeight="130" alpha="0"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="142" x="277" y="176" text="Volumes" measuredWidth="53" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="146" x="280" y="80" measuredWidth="145" measuredHeight="56">
+    <widgets xsi:type="model:Text" id="147" text="Size&#xA;Auto-clear&#xA;Backing File&#xA;" measuredWidth="63" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="148" x="86" text="52 MB&#xA;&#xA;~/container" measuredWidth="59" measuredHeight="56" lineHeight="1.7">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Switch" id="149" x="86" y="18" width="59" height="18" text="ON,OFF" measuredWidth="59" measuredHeight="18" background="#3d85c6">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="150" x="605" y="254" width="24" height="24" measuredWidth="24" measuredHeight="24" icon="assets/system-lock-screen (large)"/>
+  <widgets xsi:type="model:Button" id="151" x="287" y="288" width="36" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/system-unlock-screen (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="152" x="333" y="288" width="36" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/emblem-system (medium)">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

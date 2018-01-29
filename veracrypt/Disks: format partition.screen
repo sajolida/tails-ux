@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="119" x="194" y="140" measuredWidth="456" measuredHeight="400">
+    <widgets xsi:type="model:Panel" id="120" width="456" height="400" measuredWidth="456" measuredHeight="400"/>
+    <widgets xsi:type="model:HLine" id="121" y="42" width="453" measuredWidth="453" measuredHeight="6"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="136" x="571" y="146" width="73" height="36" text="Next" measuredWidth="73" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="137" x="200" y="146" width="73" height="36" text="Cancel" measuredWidth="73" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="138" x="234" y="266" text="Volume Name" measuredWidth="79" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="139" x="340" y="266" width="163" measuredWidth="163" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="140" x="234" y="316" text="Erase" measuredWidth="34" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="141" x="338" y="318" text="ON,OFF" measuredWidth="71" measuredHeight="24" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="142" x="234" y="366" text="Type" measuredWidth="32" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="143" x="330" y="366" text="(o) Internal disk for use with Linux systems only (Ext4)&#xA;&#x9;[ ] Password protect volume (LUKS)&#xA;( ) For use with Windows (NTFS)&#xA;&#x9;[ ] Password protect volume (VeraCrypt)&#xA;( ) For use with all systems and devices (FAT)&#xA;&#x9;[ ] Password protect volume (VeraCrypt) &#xA;( ) Other" measuredWidth="293" measuredHeight="158" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="293" height="22" text="(o) Internal disk for use with Linux systems only (Ext4)"/>
+    <items x="0" y="24" width="293" height="22" text="&#x9;[ ] Password protect volume (LUKS)"/>
+    <items x="0" y="46" width="293" height="22" text="( ) For use with Windows (NTFS)"/>
+    <items x="0" y="68" width="293" height="22" text="&#x9;[ ] Password protect volume (VeraCrypt)"/>
+    <items x="0" y="90" width="293" height="22" text="( ) For use with all systems and devices (FAT)"/>
+    <items x="0" y="112" width="293" height="22" text="&#x9;[ ] Password protect volume (VeraCrypt) "/>
+    <items x="0" y="134" width="293" height="22" text="( ) Other"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="144" x="234" y="216" text="Partition Size" measuredWidth="75" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Spinner" id="145" x="340" y="217" text="7759" measuredWidth="53" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="146" x="408" y="217" text="MB" measuredWidth="44" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="148" x="339" y="340" text="Overwrites existing data, but takes longer." measuredWidth="226" measuredHeight="24" foreground="#999">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

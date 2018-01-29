@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="209" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="210" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="211" x="29" y="66" measuredWidth="544" measuredHeight="376">
+    <widgets xsi:type="model:Panel" id="212" width="544" height="376" measuredWidth="544" measuredHeight="376"/>
+    <widgets xsi:type="model:HLine" id="213" x="1" y="45" width="541" measuredWidth="541" measuredHeight="6"/>
+    <widgets xsi:type="model:Button" id="214" x="377" y="8" height="36" measuredWidth="36" measuredHeight="36" icon="assets/weather-fog (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="215" x="511" y="18" measuredWidth="16" measuredHeight="16" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="216" x="476" y="18" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="217" x="436" y="22" measuredWidth="16" measuredHeight="16" icon="minus (small)"/>
+    <widgets xsi:type="model:Button" id="218" x="10" y="8" height="36" measuredWidth="36" measuredHeight="36" icon="line-arrow-left (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" id="219" x="43" y="8" height="36" measuredWidth="36" measuredHeight="36" icon="submenu (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" id="220" x="89" y="8" height="36" text="Home" measuredWidth="52" measuredHeight="36">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Panel" id="221" y="47" width="148" height="329" measuredWidth="148" measuredHeight="329" background="#eee"/>
+    <widgets xsi:type="model:Label" id="222" x="11" y="58" text="Recent" measuredWidth="57" measuredHeight="24" textAlignment="Center" icon="history (small)">
+      <font size="12px"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="223" x="11" y="77" text="Home" measuredWidth="54" measuredHeight="24" textAlignment="Center" icon="home (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="224" x="11" y="98" text="Desktop" measuredWidth="67" measuredHeight="24" textAlignment="Center" icon="closed (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="225" x="11" y="120" text="Document" measuredWidth="76" measuredHeight="24" textAlignment="Center" icon="new (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="226" x="11" y="142" text="Downloads" measuredWidth="82" measuredHeight="24" textAlignment="Center" icon="arrow-down (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="227" x="11" y="163" text="Music" measuredWidth="53" measuredHeight="24" textAlignment="Center" icon="note (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="228" x="11" y="186" text="Pictures" measuredWidth="64" measuredHeight="24" textAlignment="Center" icon="snapshot (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="229" x="11" y="208" text="Videos" measuredWidth="58" measuredHeight="24" textAlignment="Center" icon="video2 (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="230" x="11" y="230" text="Trash" measuredWidth="51" measuredHeight="24" textAlignment="Center" icon="trash (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="231" x="11" y="348" text="Other Locations" measuredWidth="105" measuredHeight="24" textAlignment="Center" icon="add (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:HLine" id="232" x="3" y="254" width="145" measuredWidth="145" measuredHeight="6"/>
+    <widgets xsi:type="model:HLine" id="233" x="3" y="341" width="145" measuredWidth="145" measuredHeight="6"/>
+    <widgets xsi:type="model:Button" id="234" x="339" y="8" height="36" measuredWidth="36" measuredHeight="36" icon="find (small)">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Label" id="235" x="40" y="380" text="Tor Browser" measuredWidth="86" measuredHeight="24" textAlignment="Center" icon="closed (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="240" x="190" y="130" text="leaked documents.pdf" measuredWidth="119" measuredHeight="75" textAlignment="Center" icon="smile (xlarge)" iconPosition="top">
+    <font size="12px"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="243" x="32" y="372" width="145" measuredWidth="145" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="244" x="40" y="328" text="TOSHIBA" measuredWidth="71" measuredHeight="24" textAlignment="Center" icon="assets/drive-optical (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="245" x="153" y="331" measuredWidth="16" measuredHeight="16" icon="eject (small)"/>
+  <widgets xsi:type="model:Button" id="251" x="47" y="472" height="36" text="52 MB Encrypted" measuredWidth="130" measuredHeight="36" icon="assets/drive-optical (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="259" x="40" y="349" text="52 MB Encrypted" measuredWidth="111" measuredHeight="24" textAlignment="Center" icon="assets/drive-optical (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="260" x="153" y="352" measuredWidth="16" measuredHeight="16" icon="eject (small)"/>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

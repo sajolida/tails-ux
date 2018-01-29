@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="196" x="148" y="118" measuredWidth="572" measuredHeight="446">
+    <widgets xsi:type="model:Panel" id="197" width="572" height="446" measuredWidth="572" measuredHeight="446"/>
+    <widgets xsi:type="model:HLine" id="198" x="1" y="47" width="568" measuredWidth="568" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="199" x="537" y="18" measuredWidth="16" measuredHeight="16" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="200" x="500" y="18" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="201" x="458" y="23" measuredWidth="16" measuredHeight="16" icon="minus (small)"/>
+    <widgets xsi:type="model:Button" id="202" x="395" y="7" height="36" measuredWidth="36" measuredHeight="36" icon="assets/weather-fog (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:VLine" id="203" x="177" y="50" height="395" measuredWidth="6" measuredHeight="395"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="138" x="338" y="180" measuredWidth="213" measuredHeight="72">
+    <widgets xsi:type="model:Text" id="126" text="Model&#xA;Size&#xA;Partitioning&#xA;Serial Number" measuredWidth="75" measuredHeight="72" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="127" x="86" text="TOSHIBA TransMemory&#xA;7.8 GB&#xA;Master Boot Record&#xA;C412825F5C93AABE01" measuredWidth="127" measuredHeight="72" lineHeight="1.5">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Text" id="128" x="339" y="457" text="Size&#xA;Device&#x9;&#xA;Partition Type&#xA;Contents" measuredWidth="74" measuredHeight="72" textAlignment="Right" foreground="#666" lineHeight="1.5">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="129" x="423" y="457" text="7.8 GB&#xA;/dev/sdc1&#xA;W95 FAT32&#xA;FAT (32-bit version) - Mounted at" measuredWidth="176" measuredHeight="72" lineHeight="1.5">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="175" x="347" y="300" measuredWidth="357" measuredHeight="131">
+    <widgets xsi:type="model:Panel" id="176" x="1" y="81" width="355" height="50" measuredWidth="355" measuredHeight="50" background="#ccc" border="none"/>
+    <widgets xsi:type="model:Panel" id="177" width="357" height="130" measuredWidth="357" measuredHeight="130" alpha="0"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="178" x="347" y="276" text="Volumes" measuredWidth="53" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="183" x="438" y="388" width="36" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/emblem-system (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="184" x="396" y="388" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/list-remove (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="185" x="353" y="388" width="36" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/media-playback-stop (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="187" x="463" y="124" width="36" height="36" measuredWidth="36" measuredHeight="36" icon="shutdown (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="188" x="504" y="124" width="36" height="36" measuredWidth="36" measuredHeight="36" icon="eject (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="190" x="460" y="312" text="7.8 GB VeraCrypt/TrueCrypt" measuredWidth="152" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="191" x="504" y="346" text="Filesystem&#xA;7.8 GB FAT" measuredWidth="59" measuredHeight="32" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="193" x="362" y="576" measuredWidth="287" measuredHeight="54">
+    <widgets xsi:type="model:Text" id="194" text="Size&#xA;Device&#x9;&#xA;Contents&#xA;" measuredWidth="48" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="195" x="60" text="7.8 MB&#xA;/dev/sdc1&#xA;VeraCrypt/TrueCrypt Encryption - Unlocked&#xA;" measuredWidth="227" measuredHeight="54" lineHeight="1.5">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="205" x="676" y="355" measuredWidth="24" measuredHeight="24" icon="assets/media-playback-start (medium)"/>
+  <widgets xsi:type="model:Label" id="206" x="604" y="508" text="/media/" measuredWidth="46" measuredHeight="24" foreground="#00f">
+    <font underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="207" x="349" y="130" text="7.8 GB Drive&#xA;/dev/sdc" measuredWidth="67" measuredHeight="32" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="208" x="157" y="279" measuredWidth="128" measuredHeight="40">
+    <widgets xsi:type="model:Label" id="209" text="7.8 GB Drive" measuredWidth="104" measuredHeight="32" icon="assets/drive-harddisk (large)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="210" x="36" y="17" text="UFD 2.0 TOSHIBA" measuredWidth="92" measuredHeight="23">
+      <font size="11px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="211" x="157" y="180" measuredWidth="141" measuredHeight="40">
+    <widgets xsi:type="model:Label" id="212" text="750 GB Hard Disk" measuredWidth="133" measuredHeight="32" icon="assets/drive-harddisk (large)">
+      <font size="12px"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="213" x="36" y="17" text="WDC WD7500-BPVT" measuredWidth="105" measuredHeight="23">
+      <font size="11px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="214" x="157" y="229" measuredWidth="170" measuredHeight="40">
+    <widgets xsi:type="model:Label" id="215" text="1.2 GB Loop Device" measuredWidth="142" measuredHeight="32" icon="assets/drive-harddisk (large)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="216" x="37" y="17" text="/lib/live/...system.squashfs" measuredWidth="133" measuredHeight="23">
+      <font size="11px"/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

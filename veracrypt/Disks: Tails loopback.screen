@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="198" x="148" y="118" measuredWidth="572" measuredHeight="446">
+    <widgets xsi:type="model:Panel" id="199" width="572" height="446" measuredWidth="572" measuredHeight="446"/>
+    <widgets xsi:type="model:HLine" id="200" x="1" y="47" width="568" measuredWidth="568" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="201" x="537" y="18" measuredWidth="16" measuredHeight="16" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="202" x="500" y="18" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="203" x="458" y="23" measuredWidth="16" measuredHeight="16" icon="minus (small)"/>
+    <widgets xsi:type="model:Button" id="204" x="395" y="7" height="36" measuredWidth="36" measuredHeight="36" icon="assets/weather-fog (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:VLine" id="205" x="177" y="50" height="395" measuredWidth="6" measuredHeight="395"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="206" x="157" y="185" measuredWidth="141" measuredHeight="40">
+    <widgets xsi:type="model:Label" id="207" text="750 GB Hard Disk" measuredWidth="133" measuredHeight="32" icon="assets/drive-harddisk (large)">
+      <font size="12px"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="208" x="36" y="17" text="WDC WD7500-BPVT" measuredWidth="105" measuredHeight="23">
+      <font size="11px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="209" x="157" y="234" measuredWidth="170" measuredHeight="40">
+    <widgets xsi:type="model:Label" id="210" text="1.2 GB Loop Device" measuredWidth="142" measuredHeight="32" icon="assets/drive-harddisk (large)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="211" x="37" y="17" text="/lib/live/...system.squashfs" measuredWidth="133" measuredHeight="23">
+      <font size="11px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="175" x="347" y="310" measuredWidth="357" measuredHeight="131">
+    <widgets xsi:type="model:Panel" id="176" x="1" y="81" width="355" height="50" measuredWidth="355" measuredHeight="50" background="#ccc" border="none"/>
+    <widgets xsi:type="model:Panel" id="177" width="357" height="130" measuredWidth="357" measuredHeight="130" alpha="0"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="178" x="347" y="286" text="Volumes" measuredWidth="53" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="180" x="496" y="336" text="Filesystem&#xA;1.2 GB squashfs" measuredWidth="86" measuredHeight="32" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="183" x="396" y="398" width="36" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/emblem-system (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="187" x="365" y="467" measuredWidth="335" measuredHeight="54">
+    <widgets xsi:type="model:Text" id="188" text="Size&#xA;Device&#x9;&#xA;Contents&#xA;" measuredWidth="48" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="189" x="68" text="1.2 GB&#xA;/dev/loop0 (Read-Only)&#xA;Unknown (squashfs 4.0) Mounted at /lib/live/mou...&#xA;" measuredWidth="267" measuredHeight="54" lineHeight="1.5">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="190" x="350" y="190" measuredWidth="339" measuredHeight="56">
+    <widgets xsi:type="model:Text" id="191" text="Size&#xA;Auto-clear&#xA;Backing File&#xA;" measuredWidth="63" measuredHeight="54" textAlignment="Right" foreground="#666" lineHeight="1.5">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="192" x="86" text="1.2 GB&#xA;&#xA;/lib/live/mount/medium/live/filesystem.squashfs" measuredWidth="253" measuredHeight="56" lineHeight="1.7">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Switch" id="193" x="86" y="18" width="59" height="18" text="ON,OFF" measuredWidth="59" measuredHeight="18" background="#3d85c6">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Button" id="194" x="353" y="398" height="36" measuredWidth="36" measuredHeight="36" background="#ccc" icon="assets/media-playback-stop (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="195" x="674" y="364" measuredWidth="24" measuredHeight="24" icon="assets/media-playback-start (medium)"/>
+  <widgets xsi:type="model:Button" id="197" x="503" y="125" height="36" measuredWidth="36" measuredHeight="36" icon="assets/list-remove (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="212" x="358" y="134" text="1.2 GB Loopback" measuredWidth="96" measuredHeight="24">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

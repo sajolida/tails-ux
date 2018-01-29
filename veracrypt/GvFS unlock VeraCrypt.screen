@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Panel" id="115" x="240" y="82" width="409" height="409" measuredWidth="409" measuredHeight="409"/>
+  <widgets xsi:type="model:Label" id="116" x="312" y="105" text="Unlock VeraCrypt volume" measuredWidth="147" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="118" x="313" y="137" text="Enter the password, keyfiles, and PIM of&#xA;the standard or hidden volume." measuredWidth="209" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="119" x="469" y="270" width="156" measuredWidth="156" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="120" x="313" y="270" text="Password" measuredWidth="58" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="121" x="312" y="386" text="Remember Password and Keyfiles" measuredWidth="198" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="122" x="240" y="469" width="205" text="Cancel" measuredWidth="205" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="123" x="443" y="469" width="205" text="Unlock" measuredWidth="205" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="129" x="256" y="105" measuredWidth="48" measuredHeight="48" icon="assets/system-lock-screen (xlarge)"/>
+  <widgets xsi:type="model:Button" id="132" x="470" y="306" text="Browse..." measuredWidth="68" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="133" x="313" y="523" text="Keyfile" measuredWidth="41" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="135" x="313" y="553" text="Additional Keyfile" measuredWidth="97" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="137" x="470" y="552" text="Browse..." measuredWidth="68" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="144" x="470" y="595" measuredWidth="24" measuredHeight="24" icon="loading (medium)"/>
+  <widgets xsi:type="model:Label" id="146" x="313" y="306" text="Keyfile" measuredWidth="41" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="149" x="312" y="596" text="Unlocking..." measuredWidth="67" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="150" x="469" y="345" width="69" measuredWidth="69" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="151" x="313" y="345" text="PIM" measuredWidth="26" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="153" x="333" y="236" text="Windows system partition" measuredWidth="144" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="156" x="311" y="235" measuredWidth="21" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="157" x="333" y="206" text="Hidden volume" measuredWidth="85" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="158" x="311" y="205" measuredWidth="21" measuredHeight="24">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>
