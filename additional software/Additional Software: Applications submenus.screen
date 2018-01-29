@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Popup" id="177" x="40" y="80" width="192" text="About Tails&#xA;Additional Software&#xA;Configure persistent volume&#xA;Delete persistent volume&#xA;Tails documentation&#xA;Tails Installer" measuredWidth="192" measuredHeight="148">
+    <items x="0" y="2" width="192" height="24" text="About Tails"/>
+    <items x="0" y="26" width="192" height="24" text="Additional Software"/>
+    <items x="0" y="50" width="192" height="24" text="Configure persistent volume"/>
+    <items x="0" y="74" width="192" height="24" text="Delete persistent volume"/>
+    <items x="0" y="98" width="192" height="24" text="Tails documentation"/>
+    <items x="0" y="122" width="192" height="24" text="Tails Installer"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="182" x="238" y="80" width="192" text="Additional Software&#xA;Configure persistent volume&#xA;Delete persistent volume&#xA;MAT&#xA;Power Statistics&#xA;Root Terminal&#xA;Settings&#xA;Synaptic Package Manager&#xA;Tails Installer&#xA;Terminal&#xA;WhisperBack" measuredWidth="192" measuredHeight="268">
+    <items x="0" y="2" width="192" height="24" text="Additional Software"/>
+    <items x="0" y="26" width="192" height="24" text="Configure persistent volume"/>
+    <items x="0" y="50" width="192" height="24" text="Delete persistent volume"/>
+    <items x="0" y="74" width="192" height="24" text="MAT"/>
+    <items x="0" y="98" width="192" height="24" text="Power Statistics"/>
+    <items x="0" y="122" width="192" height="24" text="Root Terminal"/>
+    <items x="0" y="146" width="192" height="24" text="Settings"/>
+    <items x="0" y="170" width="192" height="24" text="Synaptic Package Manager"/>
+    <items x="0" y="194" width="192" height="24" text="Tails Installer"/>
+    <items x="0" y="218" width="192" height="24" text="Terminal"/>
+    <items x="0" y="242" width="192" height="24" text="WhisperBack"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="183" x="438" y="80" width="192" text="Additional Software&#xA;Configure persistent volume&#xA;Delete persistent volume&#xA;MAT&#xA;Power Statistics&#xA;Settings&#xA;Tails Installer&#xA;Terminal&#xA;WhisperBack" measuredWidth="192" measuredHeight="220">
+    <items x="0" y="2" width="192" height="24" text="Additional Software"/>
+    <items x="0" y="26" width="192" height="24" text="Configure persistent volume"/>
+    <items x="0" y="50" width="192" height="24" text="Delete persistent volume"/>
+    <items x="0" y="74" width="192" height="24" text="MAT"/>
+    <items x="0" y="98" width="192" height="24" text="Power Statistics"/>
+    <items x="0" y="122" width="192" height="24" text="Settings"/>
+    <items x="0" y="146" width="192" height="24" text="Tails Installer"/>
+    <items x="0" y="170" width="192" height="24" text="Terminal"/>
+    <items x="0" y="194" width="192" height="24" text="WhisperBack"/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

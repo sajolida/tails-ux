@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Panel" id="268" x="197" y="80" width="428" height="421" measuredWidth="428" measuredHeight="421"/>
+  <widgets xsi:type="model:Icon" id="232" x="207" y="151" measuredWidth="32" measuredHeight="32" icon="wifi (large)"/>
+  <widgets xsi:type="model:Label" id="233" x="248" y="149" text="*Network Connections*" measuredWidth="127" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="234" x="248" y="164" text="Configuration of network devices and connections" measuredWidth="267" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="237" x="207" y="208" measuredWidth="32" measuredHeight="32" icon="favorites (large)"/>
+  <widgets xsi:type="model:Label" id="238" x="248" y="206" text="*Browser bookmarks*" measuredWidth="118" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="239" x="248" y="221" text="Bookmarks saved in Tor Browser" measuredWidth="178" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="242" x="207" y="268" measuredWidth="32" measuredHeight="32" icon="print (large)"/>
+  <widgets xsi:type="model:Label" id="243" x="248" y="266" text="*Printers*" measuredWidth="50" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="244" x="248" y="281" text="Printers configuration" measuredWidth="118" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="247" x="207" y="328" measuredWidth="32" measuredHeight="32" icon="currency-dollar (large)"/>
+  <widgets xsi:type="model:Label" id="248" x="248" y="326" text="*Bitcoin client*" measuredWidth="78" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="249" x="248" y="341" text="Thunderbird profiles and locally stored email" measuredWidth="239" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="262" x="207" y="449" measuredWidth="32" measuredHeight="32" icon="assets/preferences-desktop (large)"/>
+  <widgets xsi:type="model:Label" id="263" x="248" y="443" text="*Dotfiles*" measuredWidth="50" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="264" x="248" y="457" text="Symlinks into $HOME every file or directory found" measuredWidth="267" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="266" x="248" y="470" text="in the 'dotfiles' directory" measuredWidth="131" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="269" x="536" y="155" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="270" x="536" y="211" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="271" x="536" y="268" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="272" x="536" y="328" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="275" x="536" y="448" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="276" x="205" y="388" measuredWidth="32" measuredHeight="32" icon="user (large)"/>
+  <widgets xsi:type="model:Label" id="277" x="246" y="386" text="*GNOME Keyring*" measuredWidth="96" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="278" x="246" y="401" text="Secrets stored by GNOME Keyring" measuredWidth="185" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="279" x="536" y="388" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="280" x="205" y="101" height="29" measuredWidth="32" measuredHeight="29" icon="assets/utilities-terminal (large)"/>
+  <widgets xsi:type="model:Label" id="281" x="246" y="99" text="*SSH Client*" measuredWidth="64" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="282" x="246" y="114" text="SSH keys, configuration and known hosts" measuredWidth="222" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="283" x="536" y="101" width="72" height="29" text="ON,OFF" measuredWidth="72" measuredHeight="29" background="#3d85c6">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

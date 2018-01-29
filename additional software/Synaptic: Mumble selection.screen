@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="14" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Popup" id="133" x="40" y="72" text="~Unmark~&#xA;Mark for Installation&#xA;~Mark for Reinstallation~&#xA;~Mark for Upgrade~&#xA;~Mark for Removal~&#xA;~Mark for Complete Removal~" measuredWidth="176" measuredHeight="148">
+    <items x="0" y="2" width="176" height="24" text="~Unmark~"/>
+    <items x="0" y="26" width="176" height="24" text="Mark for Installation"/>
+    <items x="0" y="50" width="176" height="24" text="~Mark for Reinstallation~"/>
+    <items x="0" y="74" width="176" height="24" text="~Mark for Upgrade~"/>
+    <items x="0" y="98" width="176" height="24" text="~Mark for Removal~"/>
+    <items x="0" y="122" width="176" height="24" text="~Mark for Complete Removal~"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="152" x="40" y="248" measuredWidth="364" measuredHeight="249">
+    <widgets xsi:type="model:Alert" id="139" width="364" height="249" text="Mark additional required changes?&#xA;The chosen action also affects other packages. The following changes are required in order to proceed.&#xA;Cancel,Mark" measuredWidth="364" measuredHeight="249" icon="warning (large)">
+      <items x="174" y="209" width="80" height="25" text="Cancel"/>
+      <items x="269" y="209" width="80" height="25" text="Mark"/>
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="140" x="68" y="101" text="To be installed&#xA;- libavahi-compat-libdnssd1&#xA;- libg15-1&#xA;- libg15daemon-client1&#xA;- libg15render1" measuredWidth="163" measuredHeight="80">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="143" x="270" y="103" measuredWidth="24" measuredHeight="24" icon="checked (medium)"/>
+  <widgets xsi:type="model:Label" id="144" x="338" y="88" text="Apply" measuredWidth="33" measuredHeight="59" textAlignment="Center" icon="options (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="153" x="424" y="72" measuredWidth="364" measuredHeight="408">
+    <widgets xsi:type="model:Alert" id="145" width="364" height="408" text="Apply the following changes?&#xA;This is you last opportunity to look through the list of marked changes before they are applied.&#xA;Cancel,Apply" measuredWidth="364" measuredHeight="408" icon="help (large)">
+      <items x="174" y="368" width="80" height="25" text="Cancel"/>
+      <items x="269" y="368" width="80" height="25" text="Apply"/>
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="146" x="70" y="100" text="To be installed&#xA;- libavahi-compat-libdnssd1&#xA;- libg15-1&#xA;- libg15daemon-client1&#xA;- libg15render1&#xA;- mumble" measuredWidth="163" measuredHeight="96">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="147" x="70" y="218" text="*Summary*&#xA;&#xA;5 new packages will be installed&#xA;6067 kB of extra space will be used&#xA;0 B have to be downloaded&#xA;&#xA;{unchecked}  Download package files only" measuredWidth="187" measuredHeight="112">
+      <font/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

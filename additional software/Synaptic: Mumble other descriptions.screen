@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Panel" id="138" x="40" y="73" width="586" height="233" measuredWidth="586" measuredHeight="233"/>
+  <widgets xsi:type="model:Panel" id="139" x="40" y="330" width="586" height="233" measuredWidth="586" measuredHeight="233"/>
+  <widgets xsi:type="model:Text" id="137" x="64" y="345" text="*Low latency encrypted VoIP server*&#xA;&#xA;Murmur is the VoIP server component for Mumble. Murmur is installed&#xA;in a system-wide fashion, but can also be run by individual users.&#xA;Each murmur process supports multiple virtual servers, each with their&#xA;own user base and channel list." measuredWidth="365" measuredHeight="96">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="136" x="64" y="88" text="*Low latency encrypted VoIP client (debugging symbols)*&#xA;&#xA;Mumble is a low-latency, high quality voice chat program for gaming.&#xA;It features noise suppression, encrypted connections for both voice&#xA;and instant messaging, automatic gain control and low latency audio&#xA;with support for multiple audio standards. Mumble includes an in-game&#xA;overlay compatible with most open-source and commercial 3D applications.&#xA;Mumble is just a client and uses a non-standard protocol. You will need&#xA;a dedicated server to talk to other users. Server functionality is&#xA;provided by the package &quot;mumble-server&quot;.&#xA;&#xA;This package contains the debugging symbols for the 'mumble' and&#xA;'mumble-server' packages." measuredWidth="400" measuredHeight="208">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

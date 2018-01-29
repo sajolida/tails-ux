@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="168" x="24" y="336" measuredWidth="384" measuredHeight="265">
+    <widgets xsi:type="model:Panel" id="169" width="384" height="265" measuredWidth="384" measuredHeight="265"/>
+    <widgets xsi:type="model:HLine" id="170" y="27" width="381" measuredWidth="381" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="171" x="360" y="11" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="172" x="336" y="11" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="173" x="307" y="13" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="minus (small)"/>
+    <widgets xsi:type="model:Label" id="174" x="121" y="2" width="143" text="*Additional Software*" measuredWidth="143" measuredHeight="28">
+      <font size="14px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="114" x="24" y="59" measuredWidth="384" measuredHeight="265">
+    <widgets xsi:type="model:Panel" id="115" width="384" height="265" measuredWidth="384" measuredHeight="265"/>
+    <widgets xsi:type="model:HLine" id="116" y="27" width="381" measuredWidth="381" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="118" x="360" y="11" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="119" x="336" y="11" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="120" x="307" y="13" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="minus (small)"/>
+    <widgets xsi:type="model:Label" id="121" x="121" y="2" width="143" text="*Additional Software*" measuredWidth="143" measuredHeight="28">
+      <font size="14px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Text" id="122" x="45" y="115" width="346" height="45" text="The following software is installed automatically from your persistent storage every time you start Tails." measuredWidth="346" measuredHeight="45">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="183" x="40" y="179" measuredWidth="352" measuredHeight="58">
+    <widgets xsi:type="model:Panel" id="123" width="352" height="58" measuredWidth="352" measuredHeight="58"/>
+    <widgets xsi:type="model:Text" id="125" x="14" y="14" text="*Mumble*&#xA;Low latency VoIP encrypted client" measuredWidth="176" measuredHeight="32">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="127" x="315" y="18" width="24" height="24" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="138" x="200" y="414" measuredWidth="48" measuredHeight="48" icon="assets/package-x-generic (xlarge)"/>
+  <widgets xsi:type="model:Text" id="139" x="54" y="475" width="328" height="94" text="You can install additional software automatically from your persistent storage every time you start Tais.&#xA;&#xA;To do so, install it first using either [Synaptic] or [APT on the command line]." measuredWidth="328" measuredHeight="94">
+    <font/>
+    <items x="184" y="48" width="45" height="16" text="Synaptic"/>
+    <items x="0" y="48" width="302" height="32" text="APT on the command line"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="161" x="414" y="59" measuredWidth="384" measuredHeight="265">
+    <widgets xsi:type="model:Panel" id="162" width="384" height="265" measuredWidth="384" measuredHeight="265"/>
+    <widgets xsi:type="model:HLine" id="163" y="27" width="381" measuredWidth="381" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="164" x="360" y="11" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="165" x="336" y="11" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="166" x="307" y="13" width="11" height="10" measuredWidth="11" measuredHeight="10" icon="minus (small)"/>
+    <widgets xsi:type="model:Label" id="167" x="121" y="2" width="143" text="*Additional Software*" measuredWidth="143" measuredHeight="28">
+      <font size="14px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="155" x="584" y="113" measuredWidth="48" measuredHeight="48" icon="assets/package-x-generic (xlarge)"/>
+  <widgets xsi:type="model:Text" id="156" x="437" y="177" width="333" height="92" text="You can install additional software automatically from your persistent storage every time you start Tails.&#xA;&#xA;First, create a persistent storage." measuredWidth="333" measuredHeight="92">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="175" x="633" y="284" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Alert" id="176" x="414" y="336" text="Remove Mumble&#xA;Remove Mumble from your additional software?&#xA;Cancel,Remove" measuredWidth="339" measuredHeight="134" icon="warning (large)">
+    <items x="149" y="94" width="80" height="25" text="Cancel"/>
+    <items x="244" y="94" width="80" height="25" text="Remove"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="184" x="45" y="275" width="346" height="41" text="To add more software, install it first using either [Synaptic] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
+    <font/>
+    <items x="253" y="0" width="45" height="16" text="Synaptic"/>
+    <items x="0" y="0" width="336" height="32" text="APT on the command line"/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

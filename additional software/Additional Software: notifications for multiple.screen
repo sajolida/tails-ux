@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Panel" id="182" x="32" y="68" width="377" height="173" measuredWidth="377" measuredHeight="173" background="#000"/>
+  <widgets xsi:type="model:Icon" id="183" x="47" y="84" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="185" x="91" y="83" width="306" height="118" text="*Add to your additional software?*&#xA;To install the following software automatically from your persistent storage every time you start Tails:&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines" measuredWidth="306" measuredHeight="118" foreground="#fff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="186" x="245" y="204" text="Add to Persistent Storage" measuredWidth="154" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="187" x="133" y="204" text="Install only once" measuredWidth="104" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="189" x="32" y="254" width="377" height="147" measuredWidth="377" measuredHeight="147" background="#000"/>
+  <widgets xsi:type="model:Icon" id="190" x="47" y="270" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="191" x="91" y="269" text="*Remove from your additional software?*&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines" measuredWidth="218" measuredHeight="80" foreground="#fff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="192" x="209" y="361" text="Remove from Persistent Storage" measuredWidth="189" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="193" x="155" y="361" text="Keep" measuredWidth="46" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="201" x="32" y="414" width="377" height="195" measuredWidth="377" measuredHeight="195" background="#000"/>
+  <widgets xsi:type="model:Icon" id="202" x="47" y="430" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="203" x="91" y="429" width="308" height="132" text="*Add to your additional software?*&#xA;To install the following software automatically every time you start Tails, you can create a persistent storage and activate the *Additional Software* feature:&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines&#xA;" measuredWidth="308" measuredHeight="132" foreground="#fff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="205" x="246" y="571" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="231" x="134" y="571" text="Install only once" measuredWidth="104" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="233" x="422" y="68" width="377" height="133" measuredWidth="377" measuredHeight="133" background="#000"/>
+  <widgets xsi:type="model:Icon" id="234" x="437" y="84" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="235" x="481" y="83" width="306" height="118" text="*Add to your additional software?*&#xA;To install the following software automatically from your persistent storage every time you start Tails:&#xA;Mumble, VLC, Frozen Bubble, Mines" measuredWidth="306" measuredHeight="118" foreground="#fff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="236" x="635" y="164" text="Add to Persistent Storage" measuredWidth="154" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="237" x="523" y="164" text="Install only once" measuredWidth="104" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="238" x="422" y="254" width="377" height="95" measuredWidth="377" measuredHeight="95" background="#000"/>
+  <widgets xsi:type="model:Icon" id="239" x="437" y="270" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="240" x="481" y="269" text="*Remove from your additional software?*&#xA;Mumble, VLC, Frozen Bubble, Mines" measuredWidth="218" measuredHeight="32" foreground="#fff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="241" x="599" y="311" text="Remove from Persistent Storage" measuredWidth="189" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="242" x="545" y="311" text="Keep" measuredWidth="46" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="243" x="422" y="414" width="377" height="147" measuredWidth="377" measuredHeight="147" background="#000"/>
+  <widgets xsi:type="model:Icon" id="244" x="437" y="430" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="245" x="481" y="429" width="308" height="132" text="*Add to your additional software?*&#xA;To install the following software automatically every time you start Tails, you can create a persistent storage and activate the *Additional Software* feature:&#xA;Mumble, VLC, Frozen Bubble, Mines&#xA;" measuredWidth="308" measuredHeight="132" foreground="#fff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="246" x="636" y="521" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="247" x="524" y="521" text="Install only once" measuredWidth="104" measuredHeight="26">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="14" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Popup" id="133" x="40" y="72" text="~Unmark~&#xA;~Mark for Installation~&#xA;Mark for Reinstallation&#xA;~Mark for Upgrade~&#xA;Mark for Removal&#xA;Mark for Complete Removal" measuredWidth="176" measuredHeight="148">
+    <items x="0" y="2" width="176" height="24" text="~Unmark~"/>
+    <items x="0" y="26" width="176" height="24" text="~Mark for Installation~"/>
+    <items x="0" y="50" width="176" height="24" text="Mark for Reinstallation"/>
+    <items x="0" y="74" width="176" height="24" text="~Mark for Upgrade~"/>
+    <items x="0" y="98" width="176" height="24" text="Mark for Removal"/>
+    <items x="0" y="122" width="176" height="24" text="Mark for Complete Removal"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="143" x="270" y="103" measuredWidth="24" measuredHeight="24" icon="close (medium)"/>
+  <widgets xsi:type="model:Label" id="144" x="338" y="88" text="Apply" measuredWidth="33" measuredHeight="59" textAlignment="Center" icon="options (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="153" x="424" y="72" measuredWidth="364" measuredHeight="336">
+    <widgets xsi:type="model:Alert" id="145" width="364" height="336" text="Apply the following changes?&#xA;This is you last opportunity to look through the list of marked changes before they are applied.&#xA;Cancel,Apply" measuredWidth="364" measuredHeight="336" icon="help (large)">
+      <items x="174" y="296" width="80" height="25" text="Cancel"/>
+      <items x="269" y="296" width="80" height="25" text="Apply"/>
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="146" x="70" y="100" text="To be removed&#xA;- mumble" measuredWidth="80" measuredHeight="32">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="147" x="70" y="158" text="*Summary*&#xA;&#xA;1 packages will be removed&#xA;5301 kB of extra space will be freed&#xA;0 B have to be downloaded&#xA;&#xA;{unchecked}  Download package files only" measuredWidth="189" measuredHeight="112">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="154" x="40" y="432" measuredWidth="464" measuredHeight="185">
+    <widgets xsi:type="model:Alert" id="155" width="464" height="185" text="Applying Changes&#xA;*Removing software*&#xA;Close" measuredWidth="464" measuredHeight="185">
+      <items x="369" y="145" width="80" height="25" text="Close"/>
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="156" x="20" y="82" text="The marked changes are now being applied. This can take some times. Please wait." measuredWidth="432" measuredHeight="16">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:ProgressBar" id="157" x="20" y="104" width="432" measuredWidth="432" measuredHeight="18"/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

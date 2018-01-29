@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="140" x="40" y="81" measuredWidth="744" measuredHeight="534">
+    <widgets xsi:type="model:Panel" id="141" width="744" height="534" measuredWidth="744" measuredHeight="534"/>
+    <widgets xsi:type="model:HLine" id="142" x="1" y="56" width="739" measuredWidth="739" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="144" x="698" y="21" width="21" height="19" measuredWidth="21" measuredHeight="19" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="145" x="650" y="21" width="21" height="19" measuredWidth="21" measuredHeight="19" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="146" x="595" y="27" width="21" height="19" measuredWidth="21" measuredHeight="19" icon="minus (small)"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="147" x="328" y="100" text="Synaptic Package Manager" measuredWidth="181" measuredHeight="28">
+    <font size="14px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="148" x="41" y="137" width="743" text="&amp;File,&amp;Edit,&amp;Package,&amp;Settings,&amp;Help" measuredWidth="743" measuredHeight="28">
+    <items x="5" y="0" width="29" height="28" text="&amp;File"/>
+    <items x="34" y="0" width="31" height="28" text="&amp;Edit"/>
+    <items x="65" y="0" width="55" height="28" text="&amp;Package"/>
+    <items x="120" y="0" width="54" height="28" text="&amp;Settings"/>
+    <items x="174" y="0" width="36" height="28" text="&amp;Help"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="149" x="59" y="180" text="Reload" measuredWidth="39" measuredHeight="59" textAlignment="Center" icon="redo (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="152" x="127" y="180" measuredWidth="99" measuredHeight="59">
+    <widgets xsi:type="model:Label" id="150" text="Mark All Upgrades" measuredWidth="99" measuredHeight="59" textAlignment="Center" icon="computer (large)" iconPosition="top">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="151" x="41" y="9" width="18" measuredWidth="18" measuredHeight="24" icon="curved-arrow-up (medium)"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="153" x="257" y="180" text="Apply" measuredWidth="33" measuredHeight="59" textAlignment="Center" state="disabled" icon="options (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="155" x="328" y="180" text="Search" measuredWidth="38" measuredHeight="59" textAlignment="Center" icon="find (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="156" x="39" y="245" width="160" height="204" text="|All&#xA;Amateur Radio&#xA;Brother&#xA;Communication&#xA;Communication (contrib)&#xA;Cross Platform&#xA;Cross Platform (contrib)&#xA;Databases&#xA;Debug&#xA;Debug (contrib)&#xA;Development&#xA;Development (contrib)&#xA;Documentation" measuredWidth="160" measuredHeight="204">
+    <font/>
+    <items x="0" y="2" width="160" height="22" text="|All"/>
+    <items x="0" y="24" width="160" height="22" text="Amateur Radio"/>
+    <items x="0" y="46" width="160" height="22" text="Brother"/>
+    <items x="0" y="68" width="160" height="22" text="Communication"/>
+    <items x="0" y="90" width="160" height="22" text="Communication (contrib)"/>
+    <items x="0" y="112" width="160" height="22" text="Cross Platform"/>
+    <items x="0" y="134" width="160" height="22" text="Cross Platform (contrib)"/>
+    <items x="0" y="156" width="160" height="22" text="Databases"/>
+    <items x="0" y="178" width="160" height="22" text="Debug"/>
+    <items x="0" y="200" width="160" height="22" text="Debug (contrib)"/>
+    <items x="0" y="222" width="160" height="22" text="Development"/>
+    <items x="0" y="244" width="160" height="22" text="Development (contrib)"/>
+    <items x="0" y="266" width="160" height="22" text="Documentation"/>
+  </widgets>
+  <widgets xsi:type="model:VButtonBar" id="158" x="39" y="443" width="160" height="173" text="Sections&#xA;Status&#xA;Origin&#xA;Custom Filters&#xA;Search Results&#xA;Architecture" measuredWidth="160" measuredHeight="173" selection="0">
+    <font/>
+    <items x="0" y="0" width="160" height="29" text="Sections"/>
+    <items x="0" y="29" width="160" height="28" text="Status"/>
+    <items x="0" y="57" width="160" height="28" text="Origin"/>
+    <items x="0" y="85" width="160" height="28" text="Custom Filters"/>
+    <items x="0" y="113" width="160" height="28" text="Search Results"/>
+    <items x="0" y="141" width="160" height="32" text="Architecture"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="178" x="218" y="279" measuredWidth="425" measuredHeight="24">
+    <widgets xsi:type="model:Label" id="165" x="195" text="Real-time strategy game of ancient warfare" measuredWidth="230" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="171" x="33" text="0ad" measuredWidth="26" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="172" y="4" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="174" x="197" y="384" width="586" height="233" measuredWidth="586" measuredHeight="233" background="#ccc"/>
+  <widgets xsi:type="model:Label" id="173" x="215" y="395" text="No package is selected" measuredWidth="128" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="166" x="222" y="250" text="*S*" measuredWidth="13" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="167" x="252" y="250" text="*Package*" measuredWidth="51" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="169" x="412" y="250" text="*Description*" measuredWidth="70" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="175" x="198" y="244" width="585" measuredWidth="585" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="196" x="197" y="274" width="584" height="112" measuredWidth="584" measuredHeight="112"/>
+  <widgets xsi:type="model:WidgetGroup" id="180" x="218" y="279" measuredWidth="486" measuredHeight="24">
+    <widgets xsi:type="model:Label" id="181" x="195" text="Real-time strategy game of ancient warfare (data-files)" measuredWidth="291" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="182" x="33" text="0ad-data" measuredWidth="54" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="183" y="4" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="184" x="218" y="299" measuredWidth="533" measuredHeight="24">
+    <widgets xsi:type="model:Label" id="185" x="195" text="Real-time strategy game of ancient warfare (common data files)" measuredWidth="338" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="186" x="33" text="0ad-data-common" measuredWidth="105" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="187" y="4" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="188" x="218" y="319" measuredWidth="393" measuredHeight="24">
+    <widgets xsi:type="model:Label" id="189" x="195" text="cross-distribution packaging system" measuredWidth="198" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="190" x="33" text="0install" measuredWidth="44" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="191" y="4" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="192" x="218" y="339" measuredWidth="477" measuredHeight="24">
+    <widgets xsi:type="model:Label" id="193" x="195" text="cross-distribution packaging system (non-GUI parts)" measuredWidth="282" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="194" x="33" text="0install-core" measuredWidth="72" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="195" y="4" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="197" x="218" y="359" measuredWidth="382" measuredHeight="24">
+    <widgets xsi:type="model:Label" id="198" x="195" text="Open Free Fiasco Firmware Flasher" measuredWidth="187" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="199" x="33" text="0xffff" measuredWidth="35" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="200" y="4" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="201" x="764" y="274" height="112" measuredWidth="17" measuredHeight="112"/>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

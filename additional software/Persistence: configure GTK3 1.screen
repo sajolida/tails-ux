@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="122" x="22" y="58" measuredWidth="459" measuredHeight="519">
+    <widgets xsi:type="model:Panel" id="114" width="459" height="519" measuredWidth="459" measuredHeight="519"/>
+    <widgets xsi:type="model:HLine" id="116" y="44" width="455" measuredWidth="455" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="119" x="417" y="15" width="19" height="13" measuredWidth="19" measuredHeight="13" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="120" x="375" y="15" width="19" height="13" measuredWidth="19" measuredHeight="13" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="121" x="326" y="21" width="19" height="13" measuredWidth="19" measuredHeight="13" icon="minus (small)"/>
+    <widgets xsi:type="model:Label" id="123" x="52" y="12" width="248" text="*Setup Tails persistent volume*" measuredWidth="248" measuredHeight="28">
+      <font size="14px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="269" x="37" y="274" width="428" height="287" measuredWidth="428" measuredHeight="287"/>
+  <widgets xsi:type="model:Icon" id="136" x="50" y="285" measuredWidth="32" measuredHeight="32" icon="closed (large)"/>
+  <widgets xsi:type="model:Label" id="137" x="91" y="283" text="*Personal Data*" measuredWidth="82" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="138" x="91" y="298" text="Keep files stored in the 'Persistent' directory" measuredWidth="234" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="142" x="50" y="341" measuredWidth="32" measuredHeight="32" icon="key (large)"/>
+  <widgets xsi:type="model:Label" id="143" x="91" y="339" text="*GnuPG*" measuredWidth="45" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="144" x="91" y="354" text="GnuPG keyrings and configuration" measuredWidth="182" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="155" x="50" y="398" measuredWidth="32" measuredHeight="32" icon="comments (large)"/>
+  <widgets xsi:type="model:Label" id="156" x="91" y="396" text="*Pidgin*" measuredWidth="40" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="157" x="91" y="411" text="Pidgin profiles and OTR keyring" measuredWidth="171" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="160" x="50" y="458" measuredWidth="32" measuredHeight="32" icon="email (large)"/>
+  <widgets xsi:type="model:Label" id="161" x="91" y="456" text="*Thunderbird*" measuredWidth="74" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="162" x="91" y="471" text="Thunderbird profiles and locally stored email" measuredWidth="239" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="168" x="40" y="198" width="363" height="71" text="*Specify the files that will be saved in the persistent volume*&#xA;&#xA;The selected files will be stored in the encrypted partition /dev/sdb2 (12.39GiB), on the *TOSHIBA USB* device." measuredWidth="363" measuredHeight="71">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="169" x="40" y="156" width="364" text="*Persistence wizard - Persistent volume configuration*" measuredWidth="364" measuredHeight="28">
+    <font size="14px"/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="270" x="381" y="285" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="271" x="381" y="341" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="273" x="381" y="398" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="274" x="381" y="458" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="278" x="52" y="512" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Label" id="279" x="93" y="510" text="*Additional Software*" measuredWidth="116" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="280" x="93" y="525" text="Software installed every time you start Tails" measuredWidth="234" measuredHeight="24">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="281" x="381" y="512" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="282" x="336" y="512" width="32" height="32" measuredWidth="32" measuredHeight="32" icon="options (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="289" x="22" y="584" measuredWidth="459" measuredHeight="48">
+    <widgets xsi:type="model:Panel" id="286" width="459" height="48" measuredWidth="459" measuredHeight="48" background="#eee"/>
+    <widgets xsi:type="model:Label" id="287" x="17" y="15" text="*Restart Tails to apply your changes.*" measuredWidth="202" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" id="288" x="392" y="12" text="Restart" measuredWidth="57" measuredHeight="26">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Alert" id="290" x="488" y="198" width="313" height="144" text="Restart Tails&#xA;Restarting will erase everything that is not saved in your persistent storage?&#xA;Restart later,Restart now" measuredWidth="313" measuredHeight="144" icon="warning (large)">
+    <items x="115" y="104" width="84" height="25" text="Restart later"/>
+    <items x="214" y="104" width="84" height="25" text="Restart now"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="291" x="536" y="512" width="32" height="32" measuredWidth="32" measuredHeight="32" icon="options (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="292" x="648" y="382" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="293" x="648" y="422" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="294" x="648" y="462" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="295" x="648" y="502" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="296" x="648" y="542" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Switch" id="297" x="648" y="582" width="72" height="32" text="ON,OFF" measuredWidth="72" measuredHeight="32" selected="true" background="#3d85c6">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>
