@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" id="160" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
   <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="113" x="14" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
   <widgets xsi:type="model:WidgetGroup" id="156" x="72" y="96" measuredWidth="464" measuredHeight="185">
     <widgets xsi:type="model:Alert" id="139" width="464" height="185" text="Applying Changes&#xA;*Installing software*&#xA;Close" measuredWidth="464" measuredHeight="185">
       <items x="369" y="145" width="80" height="25" text="Close"/>
