@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="122" x="216" y="136" measuredWidth="544" measuredHeight="424">
+    <widgets xsi:type="model:Panel" id="114" width="544" height="424" measuredWidth="544" measuredHeight="424"/>
+    <widgets xsi:type="model:HLine" id="116" x="1" y="45" width="541" measuredWidth="541" measuredHeight="6"/>
+    <widgets xsi:type="model:Button" id="117" x="357" y="8" height="36" measuredWidth="36" measuredHeight="36" icon="assets/weather-fog (small)">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="119" x="511" y="18" measuredWidth="16" measuredHeight="16" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="120" x="476" y="18" measuredWidth="16" measuredHeight="16" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="121" x="436" y="22" measuredWidth="16" measuredHeight="16" icon="minus (small)"/>
+    <widgets xsi:type="model:Label" id="124" x="230" y="12" text="*Label*" measuredWidth="42" measuredHeight="28">
+      <font size="14px"/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

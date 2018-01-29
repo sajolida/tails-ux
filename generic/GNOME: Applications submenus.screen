@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="1" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Popup" id="23" x="23" y="58" width="150" text="Calculator&#xA;Files&#xA;GtkHash&#xA;KeePassX&#xA;Search for Files...&#xA;Text Editor" measuredWidth="150" measuredHeight="148">
+    <items x="0" y="2" width="150" height="24" text="Calculator"/>
+    <items x="0" y="26" width="150" height="24" text="Files"/>
+    <items x="0" y="50" width="150" height="24" text="GtkHash"/>
+    <items x="0" y="74" width="150" height="24" text="KeePassX"/>
+    <items x="0" y="98" width="150" height="24" text="Search for Files..."/>
+    <items x="0" y="122" width="150" height="24" text="Text Editor"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="24" x="23" y="212" width="150" text="GIMP&#xA;InkScape&#xA;LibreOffice Draw&#xA;Scribus&#xA;Simple Scan" measuredWidth="150" measuredHeight="124">
+    <items x="0" y="2" width="150" height="24" text="GIMP"/>
+    <items x="0" y="26" width="150" height="24" text="InkScape"/>
+    <items x="0" y="50" width="150" height="24" text="LibreOffice Draw"/>
+    <items x="0" y="74" width="150" height="24" text="Scribus"/>
+    <items x="0" y="98" width="150" height="24" text="Simple Scan"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="25" x="23" y="343" width="150" text="Electrum&#xA;Gobby&#xA;Liferea&#xA;Onion Circuits&#xA;OnionShare&#xA;Pidgin&#xA;Thunderbird&#xA;Tor Browser&#xA;Unsafe Browser" measuredWidth="150" measuredHeight="220">
+    <items x="0" y="2" width="150" height="24" text="Electrum"/>
+    <items x="0" y="26" width="150" height="24" text="Gobby"/>
+    <items x="0" y="50" width="150" height="24" text="Liferea"/>
+    <items x="0" y="74" width="150" height="24" text="Onion Circuits"/>
+    <items x="0" y="98" width="150" height="24" text="OnionShare"/>
+    <items x="0" y="122" width="150" height="24" text="Pidgin"/>
+    <items x="0" y="146" width="150" height="24" text="Thunderbird"/>
+    <items x="0" y="170" width="150" height="24" text="Tor Browser"/>
+    <items x="0" y="194" width="150" height="24" text="Unsafe Browser"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="26" x="180" y="58" width="150" text="bookletimposer&#xA;LibreOffice&#xA;LibreOffice Calc&#xA;LibreOffice Draw&#xA;LibreOffice Impress&#xA;LibreOffice Math&#xA;LibreOffice Writer" measuredWidth="150" measuredHeight="172">
+    <items x="0" y="2" width="150" height="24" text="bookletimposer"/>
+    <items x="0" y="26" width="150" height="24" text="LibreOffice"/>
+    <items x="0" y="50" width="150" height="24" text="LibreOffice Calc"/>
+    <items x="0" y="74" width="150" height="24" text="LibreOffice Draw"/>
+    <items x="0" y="98" width="150" height="24" text="LibreOffice Impress"/>
+    <items x="0" y="122" width="150" height="24" text="LibreOffice Math"/>
+    <items x="0" y="146" width="150" height="24" text="LibreOffice Writer"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="27" x="180" y="237" width="150" text="Poedit" measuredWidth="150" measuredHeight="28">
+    <items x="0" y="2" width="150" height="24" text="Poedit"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="28" x="180" y="273" width="150" text="LibreOffice Math" measuredWidth="150" measuredHeight="28">
+    <items x="0" y="2" width="150" height="24" text="LibreOffice Math"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="29" x="180" y="309" width="150" text="Audacity&#xA;Brasero&#xA;Clementine&#xA;Pitivi&#xA;Sound Juicer&#xA;Sound Recorder&#xA;Traverso&#xA;Videos" measuredWidth="150" measuredHeight="196">
+    <items x="0" y="2" width="150" height="24" text="Audacity"/>
+    <items x="0" y="26" width="150" height="24" text="Brasero"/>
+    <items x="0" y="50" width="150" height="24" text="Clementine"/>
+    <items x="0" y="74" width="150" height="24" text="Pitivi"/>
+    <items x="0" y="98" width="150" height="24" text="Sound Juicer"/>
+    <items x="0" y="122" width="150" height="24" text="Sound Recorder"/>
+    <items x="0" y="146" width="150" height="24" text="Traverso"/>
+    <items x="0" y="170" width="150" height="24" text="Videos"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="30" x="536" y="308" width="150" text="Dasher" measuredWidth="150" measuredHeight="28">
+    <items x="0" y="2" width="150" height="24" text="Dasher"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="31" x="337" y="58" width="192" text="Configure persistent volume&#xA;Delete persistent volume&#xA;MAT&#xA;Power Statistics&#xA;Root Terminal&#xA;Settings&#xA;Synaptic Package Manager&#xA;Tails Installer&#xA;Terminal&#xA;WhisperBack" measuredWidth="192" measuredHeight="244">
+    <items x="0" y="2" width="192" height="24" text="Configure persistent volume"/>
+    <items x="0" y="26" width="192" height="24" text="Delete persistent volume"/>
+    <items x="0" y="50" width="192" height="24" text="MAT"/>
+    <items x="0" y="74" width="192" height="24" text="Power Statistics"/>
+    <items x="0" y="98" width="192" height="24" text="Root Terminal"/>
+    <items x="0" y="122" width="192" height="24" text="Settings"/>
+    <items x="0" y="146" width="192" height="24" text="Synaptic Package Manager"/>
+    <items x="0" y="170" width="192" height="24" text="Tails Installer"/>
+    <items x="0" y="194" width="192" height="24" text="Terminal"/>
+    <items x="0" y="218" width="192" height="24" text="WhisperBack"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="32" x="336" y="512" width="192" text="About Tails&#xA;Configure persistent volume&#xA;Delete persistent volume&#xA;Tails documentation&#xA;Tails Installer" measuredWidth="192" measuredHeight="124">
+    <items x="0" y="2" width="192" height="24" text="About Tails"/>
+    <items x="0" y="26" width="192" height="24" text="Configure persistent volume"/>
+    <items x="0" y="50" width="192" height="24" text="Delete persistent volume"/>
+    <items x="0" y="74" width="192" height="24" text="Tails documentation"/>
+    <items x="0" y="98" width="192" height="24" text="Tails Installer"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="33" x="535" y="58" width="150" text="Archive Manager&#xA;Disks&#xA;Document Viewer&#xA;Help&#xA;Image Viewer&#xA;Password and Keys&#xA;Screenshot&#xA;System Monitor&#xA;VeraCrypt Mounter" measuredWidth="150" measuredHeight="220">
+    <items x="0" y="2" width="150" height="24" text="Archive Manager"/>
+    <items x="0" y="26" width="150" height="24" text="Disks"/>
+    <items x="0" y="50" width="150" height="24" text="Document Viewer"/>
+    <items x="0" y="74" width="150" height="24" text="Help"/>
+    <items x="0" y="98" width="150" height="24" text="Image Viewer"/>
+    <items x="0" y="122" width="150" height="24" text="Password and Keys"/>
+    <items x="0" y="146" width="150" height="24" text="Screenshot"/>
+    <items x="0" y="170" width="150" height="24" text="System Monitor"/>
+    <items x="0" y="194" width="150" height="24" text="VeraCrypt Mounter"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="35" x="337" y="309" width="192" text="Configure persistent volume&#xA;Delete persistent volume&#xA;MAT&#xA;Power Statistics&#xA;Settings&#xA;Tails Installer&#xA;Terminal&#xA;WhisperBack" measuredWidth="192" measuredHeight="196">
+    <items x="0" y="2" width="192" height="24" text="Configure persistent volume"/>
+    <items x="0" y="26" width="192" height="24" text="Delete persistent volume"/>
+    <items x="0" y="50" width="192" height="24" text="MAT"/>
+    <items x="0" y="74" width="192" height="24" text="Power Statistics"/>
+    <items x="0" y="98" width="192" height="24" text="Settings"/>
+    <items x="0" y="122" width="192" height="24" text="Tails Installer"/>
+    <items x="0" y="146" width="192" height="24" text="Terminal"/>
+    <items x="0" y="170" width="192" height="24" text="WhisperBack"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

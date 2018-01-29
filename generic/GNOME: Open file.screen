@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="124" x="49" y="116" measuredWidth="360" measuredHeight="209">
+    <widgets xsi:type="model:Window" id="114" width="360" height="209" text="Open file..." measuredWidth="360" measuredHeight="209"/>
+    <widgets xsi:type="model:Panel" id="134" x="3" y="22" width="104" height="184" measuredWidth="104" measuredHeight="184" background="#ccc" border="none"/>
+    <widgets xsi:type="model:Panel" id="116" x="111" y="29" width="242" height="124" measuredWidth="242" measuredHeight="124"/>
+    <widgets xsi:type="model:Button" id="117" x="299" y="166" width="54" text="Open" measuredWidth="54" measuredHeight="26">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" id="118" x="233" y="166" width="57" text="Cancel" measuredWidth="57" measuredHeight="26">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="135" x="9" y="31" text="{closed} Desktop" measuredWidth="65" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="140" x="9" y="55" text="{closed} Downloads" measuredWidth="80" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="141" x="9" y="104" text="{closed} Videos" measuredWidth="56" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="142" x="9" y="80" text="{closed} Music" measuredWidth="51" measuredHeight="24" lineHeight="2.0">
+      <font/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Panel" id="114" x="32" y="187" width="377" height="70" measuredWidth="377" measuredHeight="70" background="#000"/>
+  <widgets xsi:type="model:Icon" id="115" x="47" y="203" measuredWidth="32" measuredHeight="32" foreground="#fff" icon="bulb (large)"/>
+  <widgets xsi:type="model:Text" id="116" x="91" y="202" text="*Tor is ready*&#xA;You can now access the Internet" measuredWidth="167" measuredHeight="32" foreground="#fff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="135" x="32" y="264" measuredWidth="70" measuredHeight="26">
+    <widgets xsi:type="model:Panel" id="133" width="70" height="26" measuredWidth="70" measuredHeight="26" background="#000"/>
+    <widgets xsi:type="model:Icon" id="134" x="27" y="5" measuredWidth="16" measuredHeight="16" foreground="#fff" icon="assets/tor-disconnected-symbolic (small)"/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

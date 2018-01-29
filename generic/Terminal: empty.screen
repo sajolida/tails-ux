@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="117" x="24" y="62" measuredWidth="384" measuredHeight="576">
+    <widgets xsi:type="model:Window" id="115" width="384" height="576" text="amnesia@amnesia: ~" measuredWidth="384" measuredHeight="576"/>
+    <widgets xsi:type="model:Label" id="116" x="9" y="21" width="119" text="amnesia@amnesia:~$" measuredWidth="119" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="125" x="416" y="62" measuredWidth="384" measuredHeight="576">
+    <widgets xsi:type="model:Window" id="126" width="384" height="576" text="root@amnesia: ~" measuredWidth="384" measuredHeight="576"/>
+    <widgets xsi:type="model:Label" id="127" x="9" y="21" width="119" text="root@amnesia:~$" measuredWidth="119" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

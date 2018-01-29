@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="1" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Popup" id="23" x="80" y="80" width="328" text="Accessories&#xA;Graphics&#xA;Internet&#xA;Office&#xA;Programming&#xA;Science&#xA;Sound &amp; Video&#xA;System Tools&#xA;Tails&#xA;Univeral Access&#xA;Utilities&#xA;&#xA;&#xA;Activities Overview" measuredWidth="328" measuredHeight="340">
+    <items x="0" y="2" width="328" height="24" text="Accessories"/>
+    <items x="0" y="26" width="328" height="24" text="Graphics"/>
+    <items x="0" y="50" width="328" height="24" text="Internet"/>
+    <items x="0" y="74" width="328" height="24" text="Office"/>
+    <items x="0" y="98" width="328" height="24" text="Programming"/>
+    <items x="0" y="122" width="328" height="24" text="Science"/>
+    <items x="0" y="146" width="328" height="24" text="Sound &amp; Video"/>
+    <items x="0" y="170" width="328" height="24" text="System Tools"/>
+    <items x="0" y="194" width="328" height="24" text="Tails"/>
+    <items x="0" y="218" width="328" height="24" text="Univeral Access"/>
+    <items x="0" y="242" width="328" height="24" text="Utilities"/>
+    <items x="0" y="266" width="328" height="24"/>
+    <items x="0" y="290" width="328" height="24"/>
+    <items x="0" y="314" width="328" height="24" text="Activities Overview"/>
+  </widgets>
+  <widgets xsi:type="model:Popup" id="28" x="415" y="80" text="{home} Home&#xA;{closed} Desktop&#xA;{new} Documents&#xA;{arrow-down} Downloads&#xA;{note} Music&#xA;{image} Pictures&#xA;{video} Videos&#xA;&#xA;{database} Computer&#xA;&#xA;{closed} Tor Browser&#xA;&#xA;{network} Browse Network" measuredWidth="117" measuredHeight="316">
+    <items x="0" y="2" width="117" height="24" text="{home} Home"/>
+    <items x="0" y="26" width="117" height="24" text="{closed} Desktop"/>
+    <items x="0" y="50" width="117" height="24" text="{new} Documents"/>
+    <items x="0" y="74" width="117" height="24" text="{arrow-down} Downloads"/>
+    <items x="0" y="98" width="117" height="24" text="{note} Music"/>
+    <items x="0" y="122" width="117" height="24" text="{image} Pictures"/>
+    <items x="0" y="146" width="117" height="24" text="{video} Videos"/>
+    <items x="0" y="170" width="117" height="24"/>
+    <items x="0" y="194" width="117" height="24" text="{database} Computer"/>
+    <items x="0" y="218" width="117" height="24"/>
+    <items x="0" y="242" width="117" height="24" text="{closed} Tor Browser"/>
+    <items x="0" y="266" width="117" height="24"/>
+    <items x="0" y="290" width="117" height="24" text="{network} Browse Network"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="40" x="538" y="80" measuredWidth="216" measuredHeight="240">
+    <widgets xsi:type="model:Panel" id="29" width="216" height="240" measuredWidth="216" measuredHeight="240"/>
+    <widgets xsi:type="model:Icon" id="30" x="34" y="200" measuredWidth="24" measuredHeight="24" icon="wrench (medium)"/>
+    <widgets xsi:type="model:Icon" id="31" x="96" y="200" measuredWidth="24" measuredHeight="24" icon="undo (medium)"/>
+    <widgets xsi:type="model:Icon" id="32" x="162" y="200" measuredWidth="24" measuredHeight="24" icon="shutdown (medium)"/>
+    <widgets xsi:type="model:HSlider" id="33" x="48" y="24" width="148" measuredWidth="148" measuredHeight="17" value="100"/>
+    <widgets xsi:type="model:HSlider" id="34" x="48" y="64" width="148" measuredWidth="148" measuredHeight="17" value="100"/>
+    <widgets xsi:type="model:Icon" id="35" x="14" y="20" measuredWidth="24" measuredHeight="24" icon="volume (medium)"/>
+    <widgets xsi:type="model:Icon" id="36" x="14" y="60" measuredWidth="24" measuredHeight="24" icon="brightness (medium)"/>
+    <widgets xsi:type="model:Icon" id="37" x="14" y="124" measuredWidth="24" measuredHeight="24" icon="wifi (medium)"/>
+    <widgets xsi:type="model:Label" id="39" x="58" y="124" text="*onionspace*" measuredWidth="68" measuredHeight="24">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Text" id="42" x="238" y="86" text="{internet} Tor Browser" measuredWidth="84" measuredHeight="24" lineHeight="2.0">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="44" x="238" y="110" text="{email} Thunderbird" measuredWidth="83" measuredHeight="24" lineHeight="2.0">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="45" x="238" y="134" text="{assets/pidgin} Pidgin Internet Messenger" measuredWidth="220" measuredHeight="24" lineHeight="2.0">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="46" x="238" y="158" text="{key} KeePassX" measuredWidth="71" measuredHeight="24" lineHeight="2.0">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="47" x="238" y="182" text="{assets/utilities-terminal} Terminal" measuredWidth="182" measuredHeight="24" lineHeight="2.0">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

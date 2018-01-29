@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Alert" id="115" x="192" y="126" width="414" height="251" text="Authentication Required&#xA;Authentication is required to run the Synaptic Package Manager&#xA;Cancel,Authenticate&#xA;" measuredWidth="414" measuredHeight="251" icon="key (large)">
+    <items x="214" y="211" width="85" height="25" text="Cancel"/>
+    <items x="314" y="211" width="85" height="25" text="Authenticate"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="116" x="252" y="212" text="Debian Live user" measuredWidth="124" measuredHeight="32" textAlignment="Center" icon="user (large)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="117" x="256" y="262" text="Password:" measuredWidth="61" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="118" x="380" y="262" width="212" measuredWidth="212" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="119" x="255" y="442" text="Sorry, that didn't work. Please try again." measuredWidth="212" measuredHeight="24">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

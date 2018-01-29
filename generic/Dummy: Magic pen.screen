@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Alert" id="115" x="224" y="224" width="336" height="184" text="Hello!&#xA;What is your name?&#xA;Cancel,Submit" measuredWidth="336" measuredHeight="184" icon="smile (large)">
+    <items x="146" y="144" width="80" height="25" text="Cancel"/>
+    <items x="241" y="144" width="80" height="25" text="Submit"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="116" x="430" y="312" width="115" measuredWidth="115" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="117" x="287" y="312" text="Your name" measuredWidth="61" measuredHeight="24">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

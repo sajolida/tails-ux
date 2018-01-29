@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:Panel" id="114" x="184" y="56" width="457" height="449" measuredWidth="457" measuredHeight="449"/>
+  <widgets xsi:type="model:Button" id="115" x="502" y="72" width="121" height="32" text="Start Tails" measuredWidth="121" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="116" x="202" y="72" width="121" height="32" text="Shutdown" measuredWidth="121" measuredHeight="32">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="119" x="315" y="108" text="Welcome to Tails!" measuredWidth="205" measuredHeight="40">
+    <font size="24px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="120" x="202" y="152" text="Language &amp; Region" measuredWidth="110" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="123" x="202" y="391" text="Additional Settings" measuredWidth="111" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="130" x="202" y="420" measuredWidth="423" measuredHeight="72">
+    <widgets xsi:type="model:TextArea" id="125" width="423" height="72" text="The default settings are safe in most situations. To add a custom setting, press the '+' button below." measuredWidth="423" measuredHeight="72">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" id="126" x="6" y="41" width="24" height="24" text="{add}" measuredWidth="24" measuredHeight="24">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="135" x="202" y="181" measuredWidth="423" measuredHeight="111">
+    <widgets xsi:type="model:VButtonBar" id="122" width="423" height="111" text="Language&#xA;Keyboard Layout&#xA;Formats" measuredWidth="423" measuredHeight="111">
+      <font/>
+      <items x="0" y="0" width="423" height="36" text="Language"/>
+      <items x="0" y="36" width="423" height="35" text="Keyboard Layout"/>
+      <items x="0" y="71" width="423" height="40" text="Formats"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="127" x="293" y="7" text="English - United States" measuredWidth="124" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="128" x="348" y="42" text="English (US)" measuredWidth="69" measuredHeight="24">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="129" x="341" y="79" text="United States" measuredWidth="76" measuredHeight="24">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Label" id="131" x="202" y="315" text="Encrypted Persistent Storage" measuredWidth="168" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="136" x="202" y="344" width="359" text="Enter your passphrase to unlock the persistent storage" measuredWidth="359" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="137" x="556" y="344" width="67" height="24" text="Unlock" measuredWidth="67" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="138" x="504" y="314" text="[ ] Show Passphrase" measuredWidth="122" measuredHeight="26" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="122" height="22" text="[ ] Show Passphrase"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="141" x="207" y="554" text="Your persistent storage is unlocked. Restart Tails to lock it again." measuredWidth="344" measuredHeight="24">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

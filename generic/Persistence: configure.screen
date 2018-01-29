@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Note" id="97" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
+  <widgets xsi:type="model:WidgetGroup" id="122" x="22" y="80" width="379" measuredWidth="379" measuredHeight="545">
+    <widgets xsi:type="model:Panel" id="114" width="379" height="545" measuredWidth="379" measuredHeight="545"/>
+    <widgets xsi:type="model:HLine" id="116" y="48" width="376" measuredWidth="376" measuredHeight="6"/>
+    <widgets xsi:type="model:Icon" id="119" x="345" y="17" height="15" measuredWidth="16" measuredHeight="15" icon="delete (small)"/>
+    <widgets xsi:type="model:Icon" id="120" x="310" y="17" height="15" measuredWidth="16" measuredHeight="15" icon="unchecked (small)"/>
+    <widgets xsi:type="model:Icon" id="121" x="270" y="23" height="15" measuredWidth="16" measuredHeight="15" icon="minus (small)"/>
+    <widgets xsi:type="model:Label" id="123" x="43" y="14" width="205" text="*Setup Tails persistent volume*" measuredWidth="205" measuredHeight="28">
+      <font size="14px"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="134" x="30" y="267" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="135" width="363" height="44" measuredWidth="363" measuredHeight="44" state="selected">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="136" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="closed (large)"/>
+    <widgets xsi:type="model:Label" id="137" x="48" y="5" text="*Personal Data*" measuredWidth="82" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="138" x="48" y="18" text="Keep files stored in the 'Persistent' directory" measuredWidth="234" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="139" x="329" y="10" measuredWidth="24" measuredHeight="24" icon="check (medium)"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="140" x="30" y="323" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="141" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="142" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="key (large)"/>
+    <widgets xsi:type="model:Label" id="143" x="48" y="5" text="*GnuPG*" measuredWidth="45" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="144" x="48" y="18" text="GnuPG keyrings and configuration" measuredWidth="182" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="146" x="30" y="380" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="147" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="148" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="assets/utilities-terminal (large)"/>
+    <widgets xsi:type="model:Label" id="149" x="48" y="5" text="*SSH Client*" measuredWidth="64" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="150" x="48" y="18" text="SSH keys, configuration and known hosts" measuredWidth="222" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="153" x="30" y="440" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="154" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="155" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="comments (large)"/>
+    <widgets xsi:type="model:Label" id="156" x="48" y="5" text="*Pidgin*" measuredWidth="40" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="157" x="48" y="18" text="Pidgin profiles and OTR keyring" measuredWidth="171" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="158" x="30" y="500" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="159" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="160" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="email (large)"/>
+    <widgets xsi:type="model:Label" id="161" x="48" y="5" text="*Thunderbird*" measuredWidth="74" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="162" x="48" y="18" text="Thunderbird profiles and locally stored email" measuredWidth="239" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="163" x="30" y="560" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="164" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="165" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="user (large)"/>
+    <widgets xsi:type="model:Label" id="166" x="48" y="5" text="*GNOME Keyring*" measuredWidth="96" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="167" x="48" y="18" text="Secrets stored by GNOME Keyring" measuredWidth="185" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Text" id="168" x="33" y="183" width="363" height="82" text="*Specify the files that will be saved in the persistent volume*&#xA;&#xA;The selected files will be stored in the encrypted partition /dev/sdb2 (12.39GiB), on the *TOSHIBA USB* device." measuredWidth="363" measuredHeight="82">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="169" x="33" y="141" width="364" text="*Persistence wizard - Persistent volume configuration*" measuredWidth="364" measuredHeight="28">
+    <font size="14px"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="217" x="420" y="104" measuredWidth="379" measuredHeight="521">
+    <widgets xsi:type="model:Panel" id="218" width="379" height="521" measuredWidth="379" measuredHeight="521"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="230" x="428" y="147" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="231" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="232" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="wifi (large)"/>
+    <widgets xsi:type="model:Label" id="233" x="48" y="5" text="*Network Connections*" measuredWidth="127" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="234" x="48" y="18" text="Configuration of network devices and connections" measuredWidth="267" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="235" x="428" y="204" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="236" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="237" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="favorites (large)"/>
+    <widgets xsi:type="model:Label" id="238" x="48" y="5" text="*Browser bookmarks*" measuredWidth="118" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="239" x="48" y="18" text="Bookmarks saved in Tor Browser" measuredWidth="178" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="240" x="428" y="264" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="241" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="242" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="print (large)"/>
+    <widgets xsi:type="model:Label" id="243" x="48" y="5" text="*Printers*" measuredWidth="50" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="244" x="48" y="18" text="Printers configuration" measuredWidth="118" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="245" x="428" y="324" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="246" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="247" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="currency-dollar (large)"/>
+    <widgets xsi:type="model:Label" id="248" x="48" y="5" text="*Bitcoin client*" measuredWidth="78" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="249" x="48" y="18" text="Thunderbird profiles and locally stored email" measuredWidth="239" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="250" x="428" y="384" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="251" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="252" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+    <widgets xsi:type="model:Label" id="253" x="48" y="5" text="*APT Packages*" measuredWidth="82" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="254" x="48" y="18" text="Packages downloaded by APT" measuredWidth="164" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="255" x="428" y="445" measuredWidth="363" measuredHeight="44">
+    <widgets xsi:type="model:Button" id="256" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="257" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+    <widgets xsi:type="model:Label" id="258" x="48" y="5" text="*APT Lists*" measuredWidth="57" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="259" x="48" y="18" text="Lists downloaded by APT" measuredWidth="139" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="260" x="428" y="505" measuredWidth="363" measuredHeight="48">
+    <widgets xsi:type="model:Button" id="261" width="363" height="44" measuredWidth="363" measuredHeight="44">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="262" x="7" y="7" measuredWidth="32" measuredHeight="32" icon="assets/preferences-desktop (large)"/>
+    <widgets xsi:type="model:Label" id="263" x="48" y="1" text="*Dotfiles*" measuredWidth="50" measuredHeight="24">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="264" x="48" y="13" text="Symlinks into $HOME every file or directory found in the" measuredWidth="298" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="266" x="48" y="24" text="'dotfiles' directory" measuredWidth="100" measuredHeight="24">
+      <font bold="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Button" id="267" x="687" y="580" width="104" height="36" text="Save" measuredWidth="104" measuredHeight="36">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="2305"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

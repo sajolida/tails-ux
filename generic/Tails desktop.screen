@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:WidgetGroup" id="32" x="12" y="46" measuredWidth="800" measuredHeight="602" name="/usr/share/icons/HighContrast/scalable/status/battery-caution.svg">
+    <widgets xsi:type="model:Panel" id="33" y="2" width="800" height="600" measuredWidth="800" measuredHeight="600"/>
+    <widgets xsi:type="model:Panel" id="34" width="800" height="26" measuredWidth="800" measuredHeight="26" background="#000"/>
+    <widgets xsi:type="model:Panel" id="35" y="576" width="800" height="26" measuredWidth="800" measuredHeight="26" background="#000"/>
+    <widgets xsi:type="model:Label" id="36" x="10" y="1" text="Applications ▼" measuredWidth="87" measuredHeight="24" foreground="#fff">
+      <font bold="true" italic="false"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="37" x="110" y="1" width="55" text="Places ▼" measuredWidth="55" measuredHeight="24" foreground="#fff">
+      <font bold="true" italic="false"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="38" x="340" y="1" text="Thu Dec 7, 10:00" measuredWidth="98" measuredHeight="24" foreground="#fff">
+      <font bold="true" italic="false"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Note" id="1" x="12" y="8" width="800" height="32" text="Description of the screen." measuredWidth="800" measuredHeight="32" textAlignment="Left">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="122" y="47" width="55" text="Places ▼" measuredWidth="55" measuredHeight="24" foreground="#fff">
+    <font bold="true" italic="false"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="57" y="94" text="Home" measuredWidth="48" measuredHeight="75" textAlignment="Center" icon="home (xlarge)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="40" x="40" y="176" text="Report an error" measuredWidth="81" measuredHeight="75" textAlignment="Center" icon="assets/emblem-mail (xlarge)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="26" y="258" text="Tails documentation" measuredWidth="109" measuredHeight="75" textAlignment="Center" icon="assets/help-contents (xlarge)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="42" x="57" y="340" text="Trash" measuredWidth="48" measuredHeight="75" textAlignment="Center" icon="assets/user-trash (xlarge)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="44" x="757" y="51" measuredWidth="16" measuredHeight="16" foreground="#fff" icon="wifi (small)"/>
+  <widgets xsi:type="model:Icon" id="45" x="787" y="51" measuredWidth="16" measuredHeight="16" foreground="#fff" icon="volume (small)"/>
+  <widgets xsi:type="model:Icon" id="47" x="666" y="51" measuredWidth="16" measuredHeight="16" foreground="#fff" icon="assets/tor-connected-symbolic (small)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
