@@ -57,9 +57,6 @@
   <widgets xsi:type="model:Button" id="175" x="633" y="284" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Alert" id="176" x="414" y="336" text="Remove Mumble&#xA;Remove Mumble from your additional software?&#xA;Cancel,Remove" measuredWidth="339" measuredHeight="134" icon="warning (large)">
-    <items x="149" y="94" width="80" height="25" text="Cancel"/>
-    <items x="244" y="94" width="80" height="25" text="Remove"/>
     <font/>
   </widgets>
   <widgets xsi:type="model:Text" id="184" x="45" y="275" width="346" height="41" text="To add more software, install it first using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
