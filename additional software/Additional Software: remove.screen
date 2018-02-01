@@ -59,10 +59,10 @@
     <items x="276" y="94" width="80" height="25" text="Remove"/>
     <font/>
   </widgets>
-  <widgets xsi:type="model:Text" id="200" x="45" y="465" width="346" height="41" text="To do so, install some software using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
+  <widgets xsi:type="model:Text" id="200" x="45" y="465" width="346" height="41" text="To do so, install some software using [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
     <font/>
-    <items x="0" y="0" width="323" height="32" text="Synaptic Package Manager"/>
-    <items x="62" y="16" width="132" height="16" text="APT on the command line"/>
+    <items x="199" y="0" width="140" height="16" text="Synaptic Package Manager"/>
+    <items x="14" y="16" width="132" height="16" text="APT on the command line"/>
   </widgets>
   <widgets xsi:type="model:Text" id="201" x="45" y="135" width="346" height="45" text="The following software is installed automatically from your persistent storage every time you start Tails." measuredWidth="346" measuredHeight="45">
     <font/>

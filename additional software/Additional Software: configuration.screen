@@ -38,9 +38,9 @@
     <widgets xsi:type="model:Icon" id="127" x="315" y="18" width="24" height="24" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
   </widgets>
   <widgets xsi:type="model:Icon" id="138" x="200" y="414" measuredWidth="48" measuredHeight="48" icon="assets/package-x-generic (xlarge)"/>
-  <widgets xsi:type="model:Text" id="139" x="54" y="475" width="328" height="94" text="You can install additional software automatically from your persistent storage every time you start Tais.&#xA;&#xA;To do so, install some software using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="328" measuredHeight="94">
+  <widgets xsi:type="model:Text" id="139" x="54" y="475" width="328" height="94" text="You can install additional software automatically from your persistent storage every time you start Tais.&#xA;&#xA;To do so, install some software using [Synaptic Package Manager] or [APT on the command line]." measuredWidth="328" measuredHeight="94">
     <font/>
-    <items x="0" y="48" width="323" height="32" text="Synaptic Package Manager"/>
+    <items x="0" y="48" width="291" height="32" text="Synaptic Package Manager"/>
     <items x="62" y="64" width="132" height="16" text="APT on the command line"/>
   </widgets>
   <widgets xsi:type="model:WidgetGroup" id="161" x="414" y="59" measuredWidth="384" measuredHeight="265">
@@ -54,23 +54,23 @@
     </widgets>
   </widgets>
   <widgets xsi:type="model:Icon" id="155" x="584" y="113" measuredWidth="48" measuredHeight="48" icon="assets/package-x-generic (xlarge)"/>
-  <widgets xsi:type="model:Text" id="156" x="437" y="177" width="333" height="99" text="You can install additional software automatically from your persistent storage every time you start Tails.&#xA;&#xA;To do so, create a persistent storage and install some software using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="333" measuredHeight="99">
+  <widgets xsi:type="model:Text" id="156" x="437" y="177" width="333" height="99" text="You can install additional software automatically from your persistent storage every time you start Tails.&#xA;&#xA;To do so, create a persistent storage and install some software using [Synaptic Package Manager] or [APT on the command line]." measuredWidth="333" measuredHeight="99">
     <font/>
-    <items x="63" y="64" width="140" height="16" text="Synaptic Package Manager"/>
-    <items x="0" y="64" width="276" height="32" text="APT on the command line"/>
+    <items x="31" y="64" width="140" height="16" text="Synaptic Package Manager"/>
+    <items x="188" y="64" width="132" height="16" text="APT on the command line"/>
   </widgets>
   <widgets xsi:type="model:Button" id="175" x="633" y="284" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Text" id="184" x="45" y="275" width="346" height="41" text="To add more software, install it using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
+  <widgets xsi:type="model:Text" id="184" x="45" y="275" width="346" height="41" text="To add more software, install it using [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
     <font/>
-    <items x="0" y="0" width="321" height="32" text="Synaptic Package Manager"/>
-    <items x="62" y="16" width="132" height="16" text="APT on the command line"/>
+    <items x="197" y="0" width="140" height="16" text="Synaptic Package Manager"/>
+    <items x="14" y="16" width="132" height="16" text="APT on the command line"/>
   </widgets>
-  <widgets xsi:type="model:Text" id="194" x="437" y="353" width="333" height="92" text="You can install additional software automatically from your persistent storage every time you start Tails.&#xA;&#xA;To do so, unlock your persistent storage and install some software using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="333" measuredHeight="92">
+  <widgets xsi:type="model:Text" id="194" x="437" y="353" width="333" height="92" text="You can install additional software automatically from your persistent storage every time you start Tails.&#xA;&#xA;To do so, unlock your persistent storage and install some software using [Synaptic Package Manager] or [APT on the command line]." measuredWidth="333" measuredHeight="92">
     <font/>
-    <items x="112" y="64" width="140" height="16" text="Synaptic Package Manager"/>
-    <items x="0" y="64" width="325" height="32" text="APT on the command line"/>
+    <items x="80" y="64" width="140" height="16" text="Synaptic Package Manager"/>
+    <items x="0" y="64" width="293" height="32" text="APT on the command line"/>
   </widgets>
   <widgets xsi:type="model:WidgetGroup" id="203" x="414" y="475" measuredWidth="384" measuredHeight="126">
     <widgets xsi:type="model:Panel" id="204" width="384" height="126" measuredWidth="384" measuredHeight="126"/>

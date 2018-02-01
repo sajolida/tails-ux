@@ -39,10 +39,10 @@
     <font/>
   </widgets>
   <widgets xsi:type="model:Icon" id="196" x="395" y="407" measuredWidth="24" measuredHeight="24" icon="delete (medium)"/>
-  <widgets xsi:type="model:Text" id="200" x="45" y="465" width="346" height="41" text="To add more software, install it first using either [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
+  <widgets xsi:type="model:Text" id="200" x="45" y="465" width="346" height="41" text="To add more software, install it first using [Synaptic Package Manager] or [APT on the command line]." measuredWidth="346" measuredHeight="41">
     <font/>
-    <items x="0" y="0" width="298" height="32" text="Synaptic Package Manager"/>
-    <items x="109" y="16" width="132" height="16" text="APT on the command line"/>
+    <items x="0" y="0" width="313" height="32" text="Synaptic Package Manager"/>
+    <items x="62" y="16" width="132" height="16" text="APT on the command line"/>
   </widgets>
   <widgets xsi:type="model:Text" id="201" x="45" y="135" width="346" height="45" text="The following software is installed automatically from your persistent storage every time you start Tails." measuredWidth="346" measuredHeight="45">
     <font/>
