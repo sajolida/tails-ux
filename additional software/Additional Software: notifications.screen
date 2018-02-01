@@ -72,6 +72,12 @@
   <widgets xsi:type="model:Button" id="232" x="637" y="269" text="Configure" measuredWidth="71" measuredHeight="26">
     <font/>
   </widgets>
+  <widgets xsi:type="model:Panel" id="256" x="422" y="314" width="377" height="127" measuredWidth="377" measuredHeight="127" background="#000"/>
+  <widgets xsi:type="model:Icon" id="257" x="437" y="330" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="258" x="481" y="329" width="308" height="101" text="*Learn about additional software in Tails*&#xA;If you run Tails from a USB stick installed using _Tails Installer_, you could install Mumble automatically every time you start Tails.&#xA;&#xA;[Documentation]" measuredWidth="308" measuredHeight="101" foreground="#fff">
+    <font/>
+    <items x="0" y="80" width="80" height="16" text="Documentation"/>
+  </widgets>
   <hRuler/>
   <vRuler>
     <guides position="2305"/>
