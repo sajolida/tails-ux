@@ -6,7 +6,7 @@
   <widgets xsi:type="model:Panel" id="113" x="12" y="48" width="800" height="600" measuredWidth="800" measuredHeight="600" border="dashed-rounded"/>
   <widgets xsi:type="model:Panel" id="182" x="32" y="68" width="377" height="173" measuredWidth="377" measuredHeight="173" background="#000"/>
   <widgets xsi:type="model:Icon" id="183" x="47" y="84" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="185" x="91" y="83" width="306" height="118" text="*Add to your additional software?*&#xA;To install the following software automatically from your persistent storage every time you start Tails:&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines" measuredWidth="306" measuredHeight="118" foreground="#fff">
+  <widgets xsi:type="model:Text" id="185" x="91" y="83" width="306" height="118" text="*Add to your additional software?*&#xA;To install the following software automatically from your persistent storage when starting Tails:&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines" measuredWidth="306" measuredHeight="118" foreground="#fff">
     <font/>
   </widgets>
   <widgets xsi:type="model:Button" id="186" x="245" y="204" text="Add to Persistent Storage" measuredWidth="154" measuredHeight="26">
@@ -22,7 +22,7 @@
   </widgets>
   <widgets xsi:type="model:Panel" id="201" x="32" y="414" width="377" height="195" measuredWidth="377" measuredHeight="195" background="#000"/>
   <widgets xsi:type="model:Icon" id="202" x="47" y="430" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="203" x="91" y="429" width="308" height="132" text="*Add to your additional software?*&#xA;To install the following software automatically every time you start Tails, you can create a persistent storage and activate the *Additional Software* feature:&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines&#xA;" measuredWidth="308" measuredHeight="132" foreground="#fff">
+  <widgets xsi:type="model:Text" id="203" x="91" y="429" width="308" height="132" text="*Add to your additional software?*&#xA;To install the following software automatically when starting Tails, you can create a persistent storage and activate the *Additional Software* feature:&#xA;- Mumble&#xA;- VLC&#xA;- Frozen Bubble&#xA;- Mines&#xA;" measuredWidth="308" measuredHeight="132" foreground="#fff">
     <font/>
   </widgets>
   <widgets xsi:type="model:Button" id="205" x="246" y="571" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
@@ -33,7 +33,7 @@
   </widgets>
   <widgets xsi:type="model:Panel" id="233" x="422" y="68" width="377" height="133" measuredWidth="377" measuredHeight="133" background="#000"/>
   <widgets xsi:type="model:Icon" id="234" x="437" y="84" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="235" x="481" y="83" width="306" height="118" text="*Add to your additional software?*&#xA;To install the following software automatically from your persistent storage every time you start Tails:&#xA;Mumble, VLC, Frozen Bubble, Mines" measuredWidth="306" measuredHeight="118" foreground="#fff">
+  <widgets xsi:type="model:Text" id="235" x="481" y="83" width="306" height="118" text="*Add to your additional software?*&#xA;To install the following software automatically from your persistent storage when starting Tails:&#xA;Mumble, VLC, Frozen Bubble, Mines" measuredWidth="306" measuredHeight="118" foreground="#fff">
     <font/>
   </widgets>
   <widgets xsi:type="model:Button" id="236" x="635" y="164" text="Add to Persistent Storage" measuredWidth="154" measuredHeight="26">
@@ -55,7 +55,7 @@
   </widgets>
   <widgets xsi:type="model:Panel" id="243" x="422" y="414" width="377" height="147" measuredWidth="377" measuredHeight="147" background="#000"/>
   <widgets xsi:type="model:Icon" id="244" x="437" y="430" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="245" x="481" y="429" width="308" height="132" text="*Add to your additional software?*&#xA;To install the following software automatically every time you start Tails, you can create a persistent storage and activate the *Additional Software* feature:&#xA;Mumble, VLC, Frozen Bubble, Mines&#xA;" measuredWidth="308" measuredHeight="132" foreground="#fff">
+  <widgets xsi:type="model:Text" id="245" x="481" y="429" width="308" height="132" text="*Add to your additional software?*&#xA;To install the following software automatically when starting Tails, you can create a persistent storage and activate the *Additional Software* feature:&#xA;Mumble, VLC, Frozen Bubble, Mines&#xA;" measuredWidth="308" measuredHeight="132" foreground="#fff">
     <font/>
   </widgets>
   <widgets xsi:type="model:Button" id="246" x="636" y="521" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
