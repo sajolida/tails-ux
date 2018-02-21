@@ -74,7 +74,7 @@
   </widgets>
   <widgets xsi:type="model:Panel" id="256" x="32" y="528" width="406" height="108" measuredWidth="406" measuredHeight="108" background="#000"/>
   <widgets xsi:type="model:Icon" id="257" x="47" y="544" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="258" x="91" y="543" width="337" height="83" text="*You could install Mumble automatically when starting Tails*&#xA;If you run Tails from a USB stick installed using _Tails Installer_, you could install Mumble automatically when starting Tails.&#xA;&#xA;[Documentation]" measuredWidth="337" measuredHeight="83" foreground="#fff">
+  <widgets xsi:type="model:Text" id="258" x="91" y="543" width="337" height="83" text="*You could install Mumble automatically when starting Tails*&#xA;To do so, you need to run Tails from a USB stick installed using _Tails Installer_.&#xA;&#xA;[Documentation]" measuredWidth="337" measuredHeight="83" foreground="#fff">
     <font/>
     <items x="0" y="64" width="80" height="16" text="Documentation"/>
   </widgets>
