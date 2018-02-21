@@ -34,12 +34,12 @@
   <widgets xsi:type="model:Button" id="205" x="246" y="404" text="Create Persistent Storage" measuredWidth="153" measuredHeight="26">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="208" x="30" y="449" width="377" height="75" measuredWidth="377" measuredHeight="75" background="#000"/>
-  <widgets xsi:type="model:Icon" id="209" x="45" y="465" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="210" x="89" y="464" width="308" height="54" text="*Additional software installed succesfully*" measuredWidth="308" measuredHeight="54" foreground="#fff">
+  <widgets xsi:type="model:Panel" id="208" x="422" y="314" width="377" height="75" measuredWidth="377" measuredHeight="75" background="#000"/>
+  <widgets xsi:type="model:Icon" id="209" x="437" y="330" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="210" x="481" y="329" width="308" height="54" text="*Additional software installed succesfully*" measuredWidth="308" measuredHeight="54" foreground="#fff">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="213" x="325" y="487" text="Configure" measuredWidth="71" measuredHeight="26">
+  <widgets xsi:type="model:Button" id="213" x="717" y="352" text="Configure" measuredWidth="71" measuredHeight="26">
     <font/>
   </widgets>
   <widgets xsi:type="model:Panel" id="214" x="422" y="68" width="377" height="113" measuredWidth="377" measuredHeight="113" background="#000"/>
@@ -53,9 +53,9 @@
   <widgets xsi:type="model:Button" id="218" x="638" y="143" text="Configure" measuredWidth="71" measuredHeight="26">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="219" x="32" y="533" width="406" height="70" measuredWidth="406" measuredHeight="70" background="#000"/>
-  <widgets xsi:type="model:Icon" id="220" x="47" y="549" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="221" x="91" y="548" text="*Installing your additional software from persistent storage...*&#xA;This can take several minutes." measuredWidth="333" measuredHeight="32" foreground="#fff">
+  <widgets xsi:type="model:Panel" id="219" x="32" y="449" width="406" height="70" measuredWidth="406" measuredHeight="70" background="#000"/>
+  <widgets xsi:type="model:Icon" id="220" x="47" y="465" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="221" x="91" y="464" text="*Installing your additional software from persistent storage...*&#xA;This can take several minutes." measuredWidth="333" measuredHeight="32" foreground="#fff">
     <font/>
   </widgets>
   <widgets xsi:type="model:Panel" id="225" x="422" y="192" width="377" height="113" measuredWidth="377" measuredHeight="113" background="#000"/>
@@ -72,11 +72,11 @@
   <widgets xsi:type="model:Button" id="232" x="637" y="269" text="Configure" measuredWidth="71" measuredHeight="26">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="256" x="422" y="314" width="377" height="136" measuredWidth="377" measuredHeight="136" background="#000"/>
-  <widgets xsi:type="model:Icon" id="257" x="437" y="330" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
-  <widgets xsi:type="model:Text" id="258" x="481" y="329" width="308" height="121" text="*You could install Mumble automatically when starting Tails*&#xA;If you run Tails from a USB stick installed using _Tails Installer_, you could install Mumble automatically when starting Tails.&#xA;&#xA;[Documentation]" measuredWidth="308" measuredHeight="121" foreground="#fff">
+  <widgets xsi:type="model:Panel" id="256" x="32" y="528" width="406" height="108" measuredWidth="406" measuredHeight="108" background="#000"/>
+  <widgets xsi:type="model:Icon" id="257" x="47" y="544" measuredWidth="32" measuredHeight="32" icon="assets/package-x-generic (large)"/>
+  <widgets xsi:type="model:Text" id="258" x="91" y="543" width="337" height="83" text="*You could install Mumble automatically when starting Tails*&#xA;If you run Tails from a USB stick installed using _Tails Installer_, you could install Mumble automatically when starting Tails.&#xA;&#xA;[Documentation]" measuredWidth="337" measuredHeight="83" foreground="#fff">
     <font/>
-    <items x="0" y="96" width="80" height="16" text="Documentation"/>
+    <items x="0" y="64" width="80" height="16" text="Documentation"/>
   </widgets>
   <hRuler/>
   <vRuler>
