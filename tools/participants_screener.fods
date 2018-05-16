@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><dc:date>2018-05-16T15:18:55.432102348</dc:date><meta:editing-duration>P2DT6H48M58S</meta:editing-duration><meta:editing-cycles>321</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="256" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">30187</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">5418</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="results">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">7</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">7</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="summary">
+       <config:config-item config:name="CursorPositionX" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">3</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">2</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">2</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="translation">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">summary</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">961</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HL-2030</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">mQH+/0hMLTIwMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITC0yMDMwAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAuwAAAAAAAgAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SEwtMjAzMApvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OmF1dG8AUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="WenQuanYi Zen Hei" svg:font-family="&apos;WenQuanYi Zen Hei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="36pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N104P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N104">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
+  </number:currency-style>
+  <number:number-style style:name="N122">
+   <number:number number:decimal-places="1" loext:min-decimal-places="1" number:min-integer-digits="0"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="WenQuanYi Zen Hei" style:font-family-asian="&apos;WenQuanYi Zen Hei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N104"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="451.84pt"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="78.94pt"/>
+  </style:style>
+  <style:style style:name="co10" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="111.15pt"/>
+  </style:style>
+  <style:style style:name="co11" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="66.61pt"/>
+  </style:style>
+  <style:style style:name="co12" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="72pt"/>
+  </style:style>
+  <style:style style:name="co13" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="243.16pt"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="17.74pt"/>
+  </style:style>
+  <style:style style:name="co14" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="137.4pt"/>
+  </style:style>
+  <style:style style:name="co15" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="16.95pt"/>
+  </style:style>
+  <style:style style:name="co16" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="54pt"/>
+  </style:style>
+  <style:style style:name="co17" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="21.6pt"/>
+  </style:style>
+  <style:style style:name="co18" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="219.2pt"/>
+  </style:style>
+  <style:style style:name="co19" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce36" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:use-window-font-color="true"/>
+  </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#66ff00" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="transparent" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="#66ff00" fo:border="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="transparent" fo:border="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="0.74pt solid #000000" fo:border-top="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.74pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.74pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="transparent" fo:border-left="none" fo:border-right="0.74pt solid #000000" fo:border-top="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#66ff00" fo:border-left="none" fo:border-right="0.74pt solid #000000" fo:border-top="none"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce31" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.74pt solid #000000" fo:border-right="0.74pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce32" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce35" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-05-16">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="15:18:11.474851495">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false"/>
+   <table:table table:name="summary" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co14" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co15" table:default-cell-style-name="ce8"/>
+    <table:table-column table:style-name="co16" table:default-cell-style-name="ce11"/>
+    <table:table-column table:style-name="co16" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co16" table:number-columns-repeated="3" table:default-cell-style-name="ce11"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce25"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce26"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce26"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce26"/>
+    <table:table-column table:style-name="co18" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co19" table:number-columns-repeated="997" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co19" table:number-columns-repeated="8" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Answered →</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[translation.A1]" office:value-type="string" office:string-value="Criteria 1" calcext:value-type="string">
+      <text:p>Criteria 1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[translation.A5]" office:value-type="string" office:string-value="Criteria 2" calcext:value-type="string">
+      <text:p>Criteria 2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[translation.A9]" office:value-type="string" office:string-value="Criteria 3" calcext:value-type="string">
+      <text:p>Criteria 3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[translation.A13]" office:value-type="string" office:string-value="Criteria 4" calcext:value-type="string">
+      <text:p>Criteria 4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[translation.A17]" office:value-type="string" office:string-value="Criteria 5" calcext:value-type="string">
+      <text:p>Criteria 5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>Day 1</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce20"/>
+     <table:covered-table-cell/>
+     <table:table-cell table:style-name="ce31" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>Day 2</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce31" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>Day 3</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Note to remember the user</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce15" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce33" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce33" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Selection</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:style-name="ce28"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:style-name="ce34"/>
+     <table:table-cell table:style-name="ce28"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:style-name="ce34"/>
+     <table:table-cell table:style-name="ce28"/>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A8]" office:value-type="string" office:string-value="P1’s email" calcext:value-type="string">
+      <text:p>P1’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>X</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B8];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.1" calcext:value-type="string">
+      <text:p>Short 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C8];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.1" calcext:value-type="string">
+      <text:p>Short 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D8];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.1" calcext:value-type="string">
+      <text:p>Short 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E8];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.1" calcext:value-type="string">
+      <text:p>Short 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F8];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.1" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17" table:formula="of:=IF(EXACT([results.Q8];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce32"/>
+     <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.V42];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.W42];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.X42];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="998"/>
+     <table:table-cell table:style-name="ce3" table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A9]" office:value-type="string" office:string-value="P2’s email" calcext:value-type="string">
+      <text:p>P2’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>X</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B9];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.2" calcext:value-type="string">
+      <text:p>Short 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C9];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.2" calcext:value-type="string">
+      <text:p>Short 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D9];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.2" calcext:value-type="string">
+      <text:p>Short 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E9];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.2" calcext:value-type="string">
+      <text:p>Short 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F9];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.2" calcext:value-type="string">
+      <text:p>Short 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.R42];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.S42];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.T42];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.U42];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.V11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.W11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.X11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A10]" office:value-type="string" office:string-value="P3’s email" calcext:value-type="string">
+      <text:p>P3’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B10];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.1" calcext:value-type="string">
+      <text:p>Short 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C10];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.1" calcext:value-type="string">
+      <text:p>Short 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D10];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.1" calcext:value-type="string">
+      <text:p>Short 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E10];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.1" calcext:value-type="string">
+      <text:p>Short 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F10];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.1" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce30" table:formula="of:=IF(EXACT([results.R11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.S11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.T11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.U11];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.V19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.W19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.X19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>P4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A11]" office:value-type="string" office:string-value="P4’s email" calcext:value-type="string">
+      <text:p>P4’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B11];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.2" calcext:value-type="string">
+      <text:p>Short 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C11];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.2" calcext:value-type="string">
+      <text:p>Short 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D11];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.2" calcext:value-type="string">
+      <text:p>Short 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E11];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.2" calcext:value-type="string">
+      <text:p>Short 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F11];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.1" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.R19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17" table:formula="of:=IF(EXACT([results.S19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.T19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.U19];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.V40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.W40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.X40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="998"/>
+     <table:table-cell table:style-name="ce3" table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A12]" office:value-type="string" office:string-value="P5’s email" calcext:value-type="string">
+      <text:p>P5’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B12];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.1" calcext:value-type="string">
+      <text:p>Short 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C12];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.1" calcext:value-type="string">
+      <text:p>Short 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D12];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.1" calcext:value-type="string">
+      <text:p>Short 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E12];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.1" calcext:value-type="string">
+      <text:p>Short 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F12];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.2" calcext:value-type="string">
+      <text:p>Short 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.R40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.S40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(EXACT([results.T40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.U40];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.V45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.W45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.X45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P6</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A13]" office:value-type="string" office:string-value="P6’s email" calcext:value-type="string">
+      <text:p>P6’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B13];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.2" calcext:value-type="string">
+      <text:p>Short 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C13];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.2" calcext:value-type="string">
+      <text:p>Short 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D13];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.2" calcext:value-type="string">
+      <text:p>Short 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E13];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.2" calcext:value-type="string">
+      <text:p>Short 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F13];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.1" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q37];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.R45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.S45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.T45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30" table:formula="of:=IF(EXACT([results.U45];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="998"/>
+     <table:table-cell table:style-name="ce3" table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>P7</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A14]" office:value-type="string" office:string-value="P7’s email" calcext:value-type="string">
+      <text:p>P7’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B14];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.1" calcext:value-type="string">
+      <text:p>Short 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C14];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.1" calcext:value-type="string">
+      <text:p>Short 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D14];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.1" calcext:value-type="string">
+      <text:p>Short 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E14];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.1" calcext:value-type="string">
+      <text:p>Short 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F14];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.1" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q54];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.R54];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.S54];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.T54];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.U54];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17" table:formula="of:=IF(EXACT([results.V37];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.W37];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.X37];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="998"/>
+     <table:table-cell table:style-name="ce3" table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P8</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A15]" office:value-type="string" office:string-value="P8’s email" calcext:value-type="string">
+      <text:p>P8’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B15];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.2" calcext:value-type="string">
+      <text:p>Short 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C15];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.2" calcext:value-type="string">
+      <text:p>Short 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D15];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.2" calcext:value-type="string">
+      <text:p>Short 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E15];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.2" calcext:value-type="string">
+      <text:p>Short 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F15];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.2" calcext:value-type="string">
+      <text:p>Short 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.R61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.S61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.T61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.U61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.V54];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(EXACT([results.W38];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.X54];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P9</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[results.A16]" office:value-type="string" office:string-value="P9’s email" calcext:value-type="string">
+      <text:p>P9’s email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.B16];[translation.A$2:.B$3];2;0)" office:value-type="string" office:string-value="Short 1.1" calcext:value-type="string">
+      <text:p>Short 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.C16];[translation.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.1" calcext:value-type="string">
+      <text:p>Short 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.D16];[translation.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.1" calcext:value-type="string">
+      <text:p>Short 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.E16];[translation.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.1" calcext:value-type="string">
+      <text:p>Short 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=VLOOKUP([results.F16];[translation.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.1" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.Q62];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.R62];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.S62];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.T62];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:formula="of:=IF(EXACT([results.U62];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:formula="of:=IF(EXACT([results.V61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" table:formula="of:=IF(EXACT([results.W61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30" table:formula="of:=IF(EXACT([results.X61];&quot;Yes&quot;);1;&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048563">
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="translation" table:style-name="ta1">
+    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Check formula</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce35"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A2];[.$A$2:.$B$3];2;0)" office:value-type="string" office:string-value="Short 1.1" calcext:value-type="string">
+      <text:p>Short 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A3];[.$A$2:.$B$3];2;0)" office:value-type="string" office:string-value="Short 1.2" calcext:value-type="string">
+      <text:p>Short 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Check formula</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A6];[.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.1" calcext:value-type="string">
+      <text:p>Short 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A7];[.$A$6:.$B$7];2;0)" office:value-type="string" office:string-value="Short 2.2" calcext:value-type="string">
+      <text:p>Short 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 3</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Check formula</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A10];[.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.1" calcext:value-type="string">
+      <text:p>Short 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A11];[.$A$10:.$B$11];2;0)" office:value-type="string" office:string-value="Short 3.2" calcext:value-type="string">
+      <text:p>Short 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 4</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Check formula</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A14];[.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.1" calcext:value-type="string">
+      <text:p>Short 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A15];[.$A$14:.$B$15];2;0)" office:value-type="string" office:string-value="Short 4.2" calcext:value-type="string">
+      <text:p>Short 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 5</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Check formula</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A18];[.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.1" calcext:value-type="string">
+      <text:p>Short 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Short 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=VLOOKUP([.A19];[.$A$18:.$B$19];2;0)" office:value-type="string" office:string-value="Short 5.2" calcext:value-type="string">
+      <text:p>Short 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="results" table:style-name="ta1">
+    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co12" table:number-columns-repeated="14" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co12" table:number-columns-repeated="23" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Survey summary → Responses → Responses &amp; statistics → Export → Export results to application:</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="38"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- CSV</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="37"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- Complete responses only</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="37"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- Full question text</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="37"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- Full answers</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="37"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="39"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Email</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Criteria 4</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P1’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P2’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P3’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P4’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P5’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P6’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P7’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P8’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P9’s email</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 1.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 2.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 3.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 4.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full answer 5.1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="33"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
