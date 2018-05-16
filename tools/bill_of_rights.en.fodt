@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2018-04-28T11:16:54.798536260</meta:creation-date><dc:date>2018-04-28T12:03:52.238170859</dc:date><meta:editing-duration>PT6M17S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="1" meta:paragraph-count="10" meta:word-count="145" meta:character-count="756" meta:non-whitespace-character-count="627"/><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">10769</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">29884</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16125</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7488</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">23447</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">10769</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">29882</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">26892</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">85</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">402424</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">297646</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Source Code Pro" svg:font-family="&apos;Source Code Pro&apos;" style:font-adornments="Bold" style:font-pitch="fixed"/>
+  <style:font-face style:name="Source Sans Pro" svg:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro2" svg:font-family="&apos;Source Sans Pro&apos;" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro1" svg:font-family="&apos;Source Sans Pro&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="WenQuanYi Zen Hei" svg:font-family="&apos;WenQuanYi Zen Hei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="WenQuanYi Zen Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.2917in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="WenQuanYi Zen Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Source Sans Pro1" fo:font-family="&apos;Source Sans Pro&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="16pt" style:font-size-asian="10.5pt" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="WenQuanYi Zen Hei" style:font-family-asian="&apos;WenQuanYi Zen Hei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Source Sans Pro2" fo:font-family="&apos;Source Sans Pro&apos;" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="normal" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Source Sans Pro" officeooo:rsid="0004b4c2" officeooo:paragraph-rsid="0004b4c2"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="0004b4c2"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:font-name="Source Sans Pro" officeooo:rsid="0004b4c2"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Source Sans Pro" officeooo:rsid="000623f8"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2701in" fo:page-height="11.6902in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.2in" fo:margin-bottom="1.2in" fo:margin-left="1.2in" fo:margin-right="1.2in" style:shadow="none" style:writing-mode="lr-tb" draw:fill-image-width="0in" draw:fill-image-height="0in" style:footnote-max-height="0in">
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0402in" style:distance-after-sep="0.0402in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text>
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="paragraph" svg:y="0in" svg:width="2.6571in" svg:height="1.3291in" draw:z-index="0"><draw:image>
+      <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+
+       CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8p
+       IC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEu
+       MS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHht
+       bG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIK
+       ICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0
+       dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3Nv
+       ZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOmlu
+       a3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgog
+       ICB2ZXJzaW9uPSIxLjEiCiAgIHdpZHRoPSI0MjAiCiAgIGhlaWdodD0iMjEwIgogICBpZD0i
+       c3ZnMzM3NSIKICAgc29kaXBvZGk6ZG9jbmFtZT0idGFpbHMtbG9nby1mbGF0LnN2ZyIKICAg
+       aW5rc2NhcGU6dmVyc2lvbj0iMC45Mi4xIHIxNTM3MSIKICAgaW5rc2NhcGU6ZXhwb3J0LWZp
+       bGVuYW1lPSIvaG9tZS9hbW5lc2lhL1BlcnNpc3RlbnQvbWFzdGVyL3dpa2kvc3JjL2NvbnRy
+       aWJ1dGUvaG93L3VzZXJfZXhwZXJpZW5jZS90YWlscy1sb2dvLWZsYXQucG5nIgogICBpbmtz
+       Y2FwZTpleHBvcnQteGRwaT0iOTYiCiAgIGlua3NjYXBlOmV4cG9ydC15ZHBpPSI5NiI+CiAg
+       PHNvZGlwb2RpOm5hbWVkdmlldwogICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgICBib3Jk
+       ZXJjb2xvcj0iIzY2NjY2NiIKICAgICBib3JkZXJvcGFjaXR5PSIxIgogICAgIG9iamVjdHRv
+       bGVyYW5jZT0iMTAiCiAgICAgZ3JpZHRvbGVyYW5jZT0iMTAiCiAgICAgZ3VpZGV0b2xlcmFu
+       Y2U9IjEwIgogICAgIGlua3NjYXBlOnBhZ2VvcGFjaXR5PSIwIgogICAgIGlua3NjYXBlOnBh
+       Z2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxMDI0IgogICAgIGlu
+       a3NjYXBlOndpbmRvdy1oZWlnaHQ9IjY3MSIKICAgICBpZD0ibmFtZWR2aWV3NTM5NCIKICAg
+       ICBzaG93Z3JpZD0iZmFsc2UiCiAgICAgaW5rc2NhcGU6em9vbT0iMS40MzMzMzMzIgogICAg
+       IGlua3NjYXBlOmN4PSIyMTAiCiAgICAgaW5rc2NhcGU6Y3k9IjEwNSIKICAgICBpbmtzY2Fw
+       ZTp3aW5kb3cteD0iMCIKICAgICBpbmtzY2FwZTp3aW5kb3cteT0iMjciCiAgICAgaW5rc2Nh
+       cGU6d2luZG93LW1heGltaXplZD0iMSIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJz
+       dmczMzc1IgogICAgIGZpdC1tYXJnaW4tdG9wPSI0MCIKICAgICBmaXQtbWFyZ2luLWxlZnQ9
+       IjQwIgogICAgIGZpdC1tYXJnaW4tcmlnaHQ9IjQwIgogICAgIGZpdC1tYXJnaW4tYm90dG9t
+       PSI0MCIgLz4KICA8ZGVmcwogICAgIGlkPSJkZWZzMzM3NyIgLz4KICA8bWV0YWRhdGEKICAg
+       ICBpZD0ibWV0YWRhdGEzMzgwIj4KICAgIDxyZGY6UkRGPgogICAgICA8Y2M6V29yawogICAg
+       ICAgICByZGY6YWJvdXQ9IiI+CiAgICAgICAgPGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9k
+       Yzpmb3JtYXQ+CiAgICAgICAgPGRjOnR5cGUKICAgICAgICAgICByZGY6cmVzb3VyY2U9Imh0
+       dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIiAvPgogICAgICAgIDxkYzp0
+       aXRsZT48L2RjOnRpdGxlPgogICAgICA8L2NjOldvcms+CiAgICA8L3JkZjpSREY+CiAgPC9t
+       ZXRhZGF0YT4KICA8cmVjdAogICAgIHdpZHRoPSI0MjAiCiAgICAgaGVpZ2h0PSIyMTAiCiAg
+       ICAgeD0iMCIKICAgICB5PSI1LjY4NDM0MTllLTE0IgogICAgIGlkPSJyZWN0NTIzOC0xLTAi
+       CiAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lO2ZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6
+       MTtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MC45NDE4NDg4MTtlbmFibGUtYmFja2dyb3Vu
+       ZDpuZXciIC8+CiAgPGcKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLjU0MDA5NTYxLDAsMCww
+       LjU0MDA5NTYxLDkyLjc5NDY4OCwxMDYuMjMwMSkiCiAgICAgaWQ9InRleHQzMDY0IgogICAg
+       IHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXpl
+       OjYxLjU1MTQ0NTAxcHg7bGluZS1oZWlnaHQ6MTI1JTtmb250LWZhbWlseTpTYW5zO2xldHRl
+       ci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzU2MzQ3YztmaWxsLW9wYWNp
+       dHk6MTtzdHJva2U6bm9uZTtlbmFibGUtYmFja2dyb3VuZDpuZXciPgogICAgPHBhdGgKICAg
+       ICAgIGQ9Im0gMTQ2LjQwOTUzLDc4LjAyODg0NyBoIDMzLjQ3OTg2IFYgLTQxLjQxMjc5MiBo
+       IDQwLjQ5MjUyIFYgLTY5LjQ2MzQ4IGggLTExNC40NjQ5IHYgMjguMDUwNjg4IGggNDAuNDky
+       NTIgViA3OC4wMjg4NDciCiAgICAgICBpZD0icGF0aDUyNDEiCiAgICAgICBzdHlsZT0iZm9u
+       dC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpib2xkO2ZvbnQtc3RyZXRjaDpub3JtYWw7
+       Zm9udC1zaXplOjIyNi4yMTUyMjUyMnB4O2ZvbnQtZmFtaWx5OidTb3VyY2UgU2FucyBQcm8n
+       Oy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J1NvdXJjZSBTYW5zIFBybyBCb2xkJztm
+       aWxsOiM1NjM0N2M7ZmlsbC1vcGFjaXR5OjEiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3It
+       Y3VydmF0dXJlPSIwIiAvPgogICAgPHBhdGgKICAgICAgIGQ9Im0gMjEyLjc5MDI3LDQ2Ljgx
+       MTE0NiBjIDAsMTkuMDAyMDYgMTIuODk0MjgsMzMuOTMyMjgzIDMzLjI1MzYzLDMzLjkzMjI4
+       MyAxMi42NjgwNCwwIDIzLjMwMDE4LC01Ljg4MTYwNCAzMi44MDEyMSwtMTQuMjUxNTU5IGgg
+       MC42Nzg2NSBsIDIuNDg4MzYsMTEuNTM2OTc3IGggMjcuMTQ1ODMgViAxMy43ODM3MjMgYyAw
+       LC0zNC4zODQ2OCAtMTUuODM1MDksLTUwLjY3MjIxMSAtNDQuNTY0NCwtNTAuNjcyMjExIC0x
+       Ny42NDQ3NywwIC0zMy43MDYwOCw2LjEwNzgyIC00Ny45NTc2MywxNC43MDM5OSBsIDExLjc2
+       MzIsMjEuOTQyODc2ODEgQyAyMzkuMjU3NDQsLTYuNTc1NjQxMiAyNDguNzU4NSwtMTAuNDIx
+       MzA2IDI1OC4yNTk1MywtMTAuNDIxMzA2IGMgMTEuOTg5MzksMCAxNi45NjYxNCw2LjMzNDAz
+       NTkgMTcuNjQ0NzgsMTYuMjg3NDk1OSBDIDIzMS41NjYxNywxMC4zOTA0OSAyMTIuNzkwMjcs
+       MjMuMjg0Nzg2IDIxMi43OTAyNyw0Ni44MTExNDYgbSAzMS42NzAxMywtMi40ODgzNjggYyAw
+       LC04LjU5NjE3IDcuNjkxMzQsLTE1LjM4MjYzOCAzMS40NDM5MSwtMTguNTQ5NjQ4IHYgMTku
+       NjgwNzI0IGMgLTUuODgxNTksNS44ODE1OSAtMTAuODU4MzQsOS41MDEwNCAtMTguNTQ5NjUs
+       OS41MDEwNCAtNy45MTc1MiwwIC0xMi44OTQyNiwtMy4zOTMyMzYgLTEyLjg5NDI2LC0xMC42
+       MzIxMTYiCiAgICAgICBpZD0icGF0aDUyNDMiCiAgICAgICBzdHlsZT0iZm9udC12YXJpYW50
+       Om5vcm1hbDtmb250LXdlaWdodDpib2xkO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXpl
+       OjIyNi4yMTUyMjUyMnB4O2ZvbnQtZmFtaWx5OidTb3VyY2UgU2FucyBQcm8nOy1pbmtzY2Fw
+       ZS1mb250LXNwZWNpZmljYXRpb246J1NvdXJjZSBTYW5zIFBybyBCb2xkJztmaWxsOiM1NjM0
+       N2M7ZmlsbC1vcGFjaXR5OjEiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJl
+       PSIwIiAvPgogICAgPHBhdGgKICAgICAgIGQ9Im0gMzUxLjQyNjk3LC01MC42ODc2MTYgYyAx
+       MS4zMTA3NSwwIDE5LjIyODI5LC03LjIzODg5OCAxOS4yMjgyOSwtMTcuNDE4NTczIDAsLTEw
+       LjE3OTY3NSAtNy45MTc1NCwtMTcuMTkyMzU3IC0xOS4yMjgyOSwtMTcuMTkyMzU3IC0xMS4w
+       ODQ1NCwwIC0xOS4yMjgzLDcuMDEyNjgyIC0xOS4yMjgzLDE3LjE5MjM1NyAwLDEwLjE3OTY3
+       NSA4LjE0Mzc2LDE3LjQxODU3MyAxOS4yMjgzLDE3LjQxODU3MyBNIDMzNC45MTMyNiw3OC4w
+       Mjg4NDcgaCAzMy4yNTM2MyBWIC0zNC4xNzM5MDUgSCAzMzQuOTEzMjYgViA3OC4wMjg4NDci
+       CiAgICAgICBpZD0icGF0aDUyNDUiCiAgICAgICBzdHlsZT0iZm9udC12YXJpYW50Om5vcm1h
+       bDtmb250LXdlaWdodDpib2xkO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOjIyNi4y
+       MTUyMjUyMnB4O2ZvbnQtZmFtaWx5OidTb3VyY2UgU2FucyBQcm8nOy1pbmtzY2FwZS1mb250
+       LXNwZWNpZmljYXRpb246J1NvdXJjZSBTYW5zIFBybyBCb2xkJztmaWxsOiM1NjM0N2M7Zmls
+       bC1vcGFjaXR5OjEiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiAv
+       PgogICAgPHBhdGgKICAgICAgIGQ9Im0gMzk3LjIxMDgyLDQzLjE5MTcwMiBjIDAsMjIuNjIx
+       NSA3LjY5MTM0LDM3LjU1MTcyNyAzMC41MzkwNSwzNy41NTE3MjcgNy40NjUxLDAgMTMuMTIw
+       NDksLTEuMTMxMDc3IDE2LjczOTkzLC0yLjcxNDU4MiBsIC00LjA3MTg3LC0yNC42NTc0NiBj
+       IC0xLjgwOTcyLDAuNDUyNDMgLTIuNzE0NTksMC40NTI0MzEgLTQuMDcxODgsMC40NTI0MzEg
+       LTIuNzE0NTgsMCAtNS44ODE1OSwtMi4yNjIxNiAtNS44ODE1OSwtOS4yNzQ4MjUgViAtODAu
+       NTQ4MDI2IEggMzk3LjIxMDgyIFYgNDMuMTkxNzAyIgogICAgICAgaWQ9InBhdGg1MjQ3Igog
+       ICAgICAgc3R5bGU9ImZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6Ym9sZDtmb250
+       LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtc2l6ZToyMjYuMjE1MjI1MjJweDtmb250LWZhbWlseTon
+       U291cmNlIFNhbnMgUHJvJzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidTb3VyY2Ug
+       U2FucyBQcm8gQm9sZCc7ZmlsbDojNTYzNDdjO2ZpbGwtb3BhY2l0eToxIgogICAgICAgaW5r
+       c2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgLz4KICAgIDxwYXRoCiAgICAgICBkPSJt
+       IDQ1MS43NjQwMyw2NS4xMzQ1NzkgYyAxMS4zMTA3NSw5LjI3NDgxNSAyOC4yNzY5MiwxNS42
+       MDg4NSA0Mi45ODA4OSwxNS42MDg4NSAzMC4wODY2LDAgNDYuMTQ3OTEsLTE1LjgzNTA4NiA0
+       Ni4xNDc5MSwtMzYuMTk0NDM2IDAsLTIwLjU4NTU2NSAtMTYuMDYxMywtMjguNTAzMTIzIC0z
+       MC4zMTI4NCwtMzMuNzA2MDY4IC0xMS41MzY5NywtNC4yOTgwODUxIC0yMS45NDI4OCwtNy4w
+       MTI2Nzk0IC0yMS45NDI4OCwtMTQuMjUxNTU5MyAwLC01LjY1NTM3NSA0LjA3MTg5LC04Ljgy
+       MjM5MzcgMTIuNjY4MDYsLTguODIyMzkzNyA3LjkxNzUyLDAgMTUuNjA4ODUsMy42MTk0NDk0
+       IDIzLjc1MjU5LDkuNTAxMDM5MyBsIDE0LjkzMDIxLC0xOS45MDY5MzkzIGMgLTkuNzI3MjUs
+       LTcuMjM4ODggLTIyLjM5NTMzLC0xNC4yNTE1NiAtMzkuNTg3NjcsLTE0LjI1MTU2IC0yNi4w
+       MTQ3MiwwIC00Mi45ODA4OSwxNC4yNTE1OCAtNDIuOTgwODksMzUuMDYzMzYwMiAwLDE4LjU0
+       OTYyOTggMTYuMDYxMywyNy44MjQ0Nzc4IDI5LjYzNDIsMzMuMDI3NDIyOCAxMS41MzY5Niw0
+       LjUyNDMgMjIuODQ3NzMsNy45MTc1NCAyMi44NDc3MywxNS4zODI2MzUgMCw1Ljg4MTU5IC00
+       LjI5ODA5LDkuNTAxMDQgLTE0LjI1MTU1LDkuNTAxMDQgLTkuNTAxMDMsMCAtMTguNzc1ODgs
+       LTQuMDcxODgyIC0yOC45NTU1NSwtMTEuNzYzMTkyIGwgLTE0LjkzMDIxLDIwLjgxMTgwMSIK
+       ICAgICAgIGlkPSJwYXRoNTI0OSIKICAgICAgIHN0eWxlPSJmb250LXZhcmlhbnQ6bm9ybWFs
+       O2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MjI2LjIx
+       NTIyNTIycHg7Zm9udC1mYW1pbHk6J1NvdXJjZSBTYW5zIFBybyc7LWlua3NjYXBlLWZvbnQt
+       c3BlY2lmaWNhdGlvbjonU291cmNlIFNhbnMgUHJvIEJvbGQnO2ZpbGw6IzU2MzQ3YztmaWxs
+       LW9wYWNpdHk6MSIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIC8+
+       CiAgPC9nPgogIDxnCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4yNTUwOTEzLDAsMCwxLjI1
+       NTA5MTMsMjIuNDQ5MDg3LDI5LjM5NTY2KSIKICAgICBpZD0iZzUzNzQiCiAgICAgc3R5bGU9
+       ImZpbGw6IzU2MzQ3YztmaWxsLW9wYWNpdHk6MSI+CiAgICA8cGF0aAogICAgICAgZD0ibSA4
+       OC4zNDIwNjYsNTYuNzMwMDY4IHYgMTYuNjYyODY5IGMgMCwwLjUxMDI4OSAtMC4zNDEwNzUs
+       MC42NDM5ODQgLTAuNzYwNjg5LDAuMjk2NTkxIEwgNzkuMDc3MzE0LDY2LjY0OTExNiBDIDc4
+       LjY1ODEwMyw2Ni4zMDIwNTYgNzguMzE3MDI5LDY1LjYwOSA3OC4zMTcwMjksNjUuMDk4NzEx
+       IHYgLTIuMDk3NjgzIGwgLTIuNjU3NjU3LC0yLjE2MDc4IGMgLTIuODUwMTU2LC0yLjMxNzI4
+       OSAtNS4xMzIzNzYsLTcuMDIxNyAtNS4xMzIzNzYsLTEwLjQ2NDc2MyAwLC0zLjQ0MjMyMyAy
+       LjI5Nzc4LC00LjMzOTQ0OSA1LjEzMjM3NiwtMi4wMDI3NDMgbCAyLjY1NzY1NywyLjE2MDc4
+       MiB2IC0yLjA5NzY4MSBjIDAsLTAuNTEwMDQ2IDAuMzQxMDc0LC0wLjY0MzczNyAwLjc2MDI4
+       NSwtMC4yOTY2NzcgbCA4LjUwMzg2Miw3LjA0MDI0MyBjIDAuNDIwNTQ2LDAuMzQ2NDM1IDAu
+       NzYwODksMS4wNDA2MTMgMC43NjA4OSwxLjU1MDY1OSB6IE0gNzUuODExMzEsNTEuNDMyMjI3
+       IGMgLTEuNTAwMjIsLTEuMjM2NzA4IC0yLjcxNjMwOSwtMC43NjE2NzUgLTIuNzE2MzA5LDEu
+       MDYwMTk3IDAsMS44MjIzNjcgMS4yMTYwODksNC4zMDE4ODcgMi43MTYzMDksNS41Mzg1OTUg
+       bCAyLjUwNTcxOSwyLjAzNTUzMiBWIDUzLjQ2NzUxNiBMIDc1LjgxMTMxLDUxLjQzMTk4NCBa
+       IgogICAgICAgaWQ9InBhdGg1MTg5LTQiCiAgICAgICBzdHlsZT0iZmlsbDojNTYzNDdjO2Zp
+       bGwtb3BhY2l0eToxIgogICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIg
+       Lz4KICAgIDxnCiAgICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLjQ2NDEwMzE0LDAuOTI2Nzky
+       NiwtMC45MjY3OTI2LDAuNDY0MTAzMTQsNzcuMjU4Mzc2LC0xNC44OTI3OCkiCiAgICAgICBp
+       ZD0iZzM1MDAiCiAgICAgICBzdHlsZT0iZmlsbDojNTYzNDdjO2ZpbGwtb3BhY2l0eToxIj4K
+       ICAgICAgPHBhdGgKICAgICAgICAgZD0iTSA5Ny45NzYsMzcuOCBDIDk3Ljk3MiwzNy43Nzkg
+       OTcuOTY4LDM3Ljc1OCA5Ny45NjMsMzcuNzM3IDk3Ljk0NywzNy42NjkgOTcuOTI3LDM3LjYw
+       MiA5Ny45MDEsMzcuNTM4IDk3Ljg5OCwzNy41MyA5Ny44OTYsMzcuNTIyIDk3Ljg5MywzNy41
+       MTUgOTcuODYzLDM3LjQ0NiA5Ny44MjYsMzcuMzggOTcuNzg2LDM3LjMxNyA5Ny43NzUsMzcu
+       Mjk5IDk3Ljc2MiwzNy4yODMgOTcuNzUsMzcuMjY2IDk3LjcxNSwzNy4yMTYgOTcuNjc2LDM3
+       LjE2OSA5Ny42MzQsMzcuMTI1IDk3LjYyMywzNy4xMTMgOTcuNjEzLDM3LjEwMSA5Ny42MDEs
+       MzcuMDg5IDk3LjU0OCwzNy4wMzcgOTcuNDksMzYuOTg5IDk3LjQyOCwzNi45NDYgOTcuNDEz
+       LDM2LjkzNSA5Ny4zOTYsMzYuOTI3IDk3LjM4LDM2LjkxNyA5Ny4zNDksMzYuODk4IDk3LjMy
+       LDM2Ljg3NyA5Ny4yODgsMzYuODYgTCA5Ni43NDMsMzYuNTc2IDcxLjgzNzAxNiw0Ny42OTU1
+       ODUgMjUuMjUyLDI0LjI2OSBsIC0wLjY2NiwwLjMzIGMgLTAuMDA2LDAuMDAzIC0wLjAxLDAu
+       MDA3IC0wLjAxNiwwLjAxIC0wLjA0NywwLjAyNCAtMC4wOSwwLjA1NSAtMC4xMzQsMC4wODQg
+       LTAuMDI5LDAuMDE5IC0wLjA2LDAuMDM2IC0wLjA4NywwLjA1NyAtMC4wMzQsMC4wMjcgLTAu
+       MDYzLDAuMDU5IC0wLjA5NCwwLjA5IC0wLjAzMSwwLjAzIC0wLjA2NSwwLjA1OSAtMC4wOTMs
+       MC4wOTIgLTAuMDIyLDAuMDI2IC0wLjAzOSwwLjA1NiAtMC4wNiwwLjA4NCAtMC4wMzEsMC4w
+       NDMgLTAuMDYzLDAuMDg2IC0wLjA4OCwwLjEzMiAtMC4wMDMsMC4wMDUgLTAuMDA3LDAuMDEg
+       LTAuMDEsMC4wMTUgLTAuMDE1LDAuMDI4IC0wLjAyMiwwLjA1NyAtMC4wMzUsMC4wODUgLTAu
+       MDIsMC4wNDYgLTAuMDQxLDAuMDkgLTAuMDU2LDAuMTM4IC0wLjAxMywwLjA0MSAtMC4wMiww
+       LjA4MiAtMC4wMjksMC4xMjMgLTAuMDA5LDAuMDQzIC0wLjAxOSwwLjA4NSAtMC4wMjQsMC4x
+       MjggLTAuMDA1LDAuMDQzIC0wLjAwNCwwLjA4NSAtMC4wMDUsMC4xMjcgLTAuMDAxLDAuMDQ0
+       IC0wLjAwMywwLjA4NyAwLjAwMSwwLjEzIDAuMDAyLDAuMDIzIDAuMDA1LDAuMDQ2IDAuMDA5
+       LDAuMDY5IC0wLjAwNiwwLjA1MSAtMC4wMTUsMC4xIC0wLjAxNSwwLjE1MiBMIDIzLjg1NCw0
+       MS42NzQgMjcuMjE3MDgsNDAuMTA3NDE5IDYzLjYyMiw1OC4yMTEgMzguNTM3NjE1LDY5LjM0
+       NzA0OCBsIC0xOC45MzksLTkuNDY5IEwgMi42MDkwNjMyLDUxLjM4NDcxIGMgLTAuMDEyLC0w
+       LjAwNiAtMC4wMjUsLTAuMDA5IC0wLjAzOCwtMC4wMTQgLTAuMDQyLC0wLjAyIC0wLjA4Niwt
+       MC4wMzUgLTAuMTMxLC0wLjA1IC0wLjA0LC0wLjAxNCAtMC4wOCwtMC4wMjggLTAuMTIxLC0w
+       LjAzOCAtMC4wMzgsLTAuMDA5IC0wLjA3OCwtMC4wMTQgLTAuMTE3LC0wLjAxOSAtMC4wNDks
+       LTAuMDA3IC0wLjA5OCwtMC4wMTQgLTAuMTQ4LC0wLjAxNSAtMC4wMTMsMCAtMC4wMjQsLTAu
+       MDA0IC0wLjAzNywtMC4wMDQgLTAuMDI1LDAgLTAuMDQ5LDAuMDA2IC0wLjA3NCwwLjAwNyAt
+       MC4wNSwwLjAwNCAtMC4wOTksMC4wMDcgLTAuMTQ4LDAuMDE2IC0wLjA0LDAuMDA3IC0wLjA3
+       OSwwLjAxNyAtMC4xMTgsMC4wMjcgLTAuMDQzLDAuMDExIC0wLjA4NSwwLjAyNCAtMC4xMjcs
+       MC4wMzkgLTAuMDM5LDAuMDE1IC0wLjA3NywwLjAzMiAtMC4xMTQsMC4wNTEgLTAuMDM5LDAu
+       MDE5IC0wLjA3NywwLjAzOSAtMC4xMTUsMC4wNjIgLTAuMDM1LDAuMDIyIC0wLjA2OCwwLjA0
+       NSAtMC4xLDAuMDcgLTAuMDM1LDAuMDI3IC0wLjA3LDAuMDU0IC0wLjEwMywwLjA4NSAtMC4w
+       MzEsMC4wMjkgLTAuMDU5LDAuMDU5IC0wLjA4NywwLjA5IC0wLjAyOCwwLjAzMiAtMC4wNTYs
+       MC4wNjQgLTAuMDgyLDAuMDk5IC0wLjAyOCwwLjAzOCAtMC4wNTIsMC4wNzkgLTAuMDc2LDAu
+       MTIgLTAuMDEzLDAuMDIzIC0wLjAzLDAuMDQyIC0wLjA0MiwwLjA2NiAtMC4wMDYsMC4wMTIg
+       LTAuMDA4LDAuMDI1IC0wLjAxNCwwLjAzNyAtMC4wMiwwLjA0MyAtMC4wMzYsMC4wODkgLTAu
+       MDUxLDAuMTM1IC0wLjAxMywwLjAzOSAtMC4wMjcsMC4wNzggLTAuMDM2LDAuMTE3IC0wLjAw
+       OSwwLjA0IC0wLjAxNCwwLjA4MSAtMC4wMiwwLjEyMiAtMC4wMDcsMC4wNDggLTAuMDEzLDAu
+       MDk1IC0wLjAxNCwwLjE0MiAwLjAwMSwwLjAxNCAtMC4wMDMsMC4wMjYgLTAuMDAzLDAuMDM5
+       IHYgMTkuNTMxIGMgMCwwLjAyNiAwLjAwNiwwLjA1MSAwLjAwOCwwLjA3NyAwLjAwMywwLjA0
+       OCAwLjAwNiwwLjA5NiAwLjAxNCwwLjE0MyAwLjAwNywwLjA0MiAwLjAxNywwLjA4MiAwLjAy
+       OCwwLjEyMiAwLjAxMSwwLjA0MiAwLjAyMywwLjA4MyAwLjAzOCwwLjEyMyAwLjAxNSwwLjA0
+       IDAuMDMzLDAuMDc5IDAuMDUyLDAuMTE3IDAuMDE5LDAuMDM4IDAuMDM4LDAuMDc2IDAuMDYx
+       LDAuMTEyIDAuMDIyLDAuMDM1IDAuMDQ2LDAuMDY5IDAuMDcxLDAuMTAyIDAuMDI3LDAuMDM1
+       IDAuMDU0LDAuMDY5IDAuMDg0LDAuMTAyIDAuMDI4LDAuMDMxIDAuMDU5LDAuMDU5IDAuMDks
+       MC4wODcgMC4wMzIsMC4wMjkgMC4wNjQsMC4wNTYgMC4xLDAuMDgyIDAuMDM4LDAuMDI3IDAu
+       MDc3LDAuMDUxIDAuMTE4LDAuMDc1IDAuMDIzLDAuMDE0IDAuMDQzLDAuMDMxIDAuMDY4LDAu
+       MDQzIEwgMzcuOTQ1NjE1LDkxLjU0MzA0OCBjIDAuMDA3LDAuMDA0IDAuMDE1LDAuMDA0IDAu
+       MDIyLDAuMDA4IDAuMDE3LDAuMDA4IDAuMDMyLDAuMDE3IDAuMDQ5LDAuMDI1IDAuMDEsMC4w
+       MDQgMC4wMiwwLjAwNyAwLjAzLDAuMDExIDAuMDU2LDAuMDIyIDAuMTEzLDAuMDQxIDAuMTcx
+       LDAuMDU1IDAuMDEyLDAuMDAzIDAuMDI0LDAuMDA2IDAuMDM2LDAuMDA5IDAuMDE2LDAuMDAz
+       IDAuMDMyLDAuMDA1IDAuMDQ4LDAuMDA4IDAuMDc3LDAuMDE0IDAuMTU0LDAuMDI0IDAuMjMy
+       LDAuMDI0IDAuMDAxLDAgMC4wMDIsMCAwLjAwMywwIGggMC4wMDEgMTBlLTQgYyAxMGUtNCww
+       IDAuMDAyLDAgMC4wMDMsMCAwLjA3OCwwIDAuMTU2LC0wLjAxIDAuMjMyLC0wLjAyNCAwLjAx
+       NiwtMC4wMDMgMC4wMzIsLTAuMDA1IDAuMDQ4LC0wLjAwOCAwLjAxMiwtMC4wMDMgMC4wMjQs
+       LTAuMDA2IDAuMDM2LC0wLjAwOSAwLjA1OCwtMC4wMTQgMC4xMTUsLTAuMDMzIDAuMTcsLTAu
+       MDU1IDAuMDEsLTAuMDA0IDAuMDIxLC0wLjAwNyAwLjAzMSwtMC4wMTEgMC4wMTcsLTAuMDA3
+       IDAuMDMyLC0wLjAxNyAwLjA0OSwtMC4wMjQgMC4wMDcsLTAuMDAzIDAuMDE1LC0wLjAwNCAw
+       LjAyMiwtMC4wMDggTCA2MS43NDYsODEuNjQyIGwgOS40NjIsNS4yMjEgYyAwLjAxOCwwLjAx
+       IDAuMDM3LDAuMDE3IDAuMDU2LDAuMDI2IDAuMDE5LDAuMDEgMC4wMzgsMC4wMiAwLjA1OCww
+       LjAyOSAwLjAwOCwwLjAwMyAwLjAxNiwwLjAwNyAwLjAyNCwwLjAxIDAuMDMxLDAuMDEzIDAu
+       MDYzLDAuMDIzIDAuMDk1LDAuMDMzIDAuMDE5LDAuMDA2IDAuMDM4LDAuMDEzIDAuMDU4LDAu
+       MDE5IDAuMDIxLDAuMDA2IDAuMDQzLDAuMDExIDAuMDY0LDAuMDE1IDAuMDE1LDAuMDAzIDAu
+       MDI5LDAuMDA2IDAuMDQ0LDAuMDA4IDAuMDA3LDAuMDAxIDAuMDE1LDAuMDAzIDAuMDIyLDAu
+       MDA0IDAuMDE0LDAuMDAyIDAuMDI4LDAuMDA2IDAuMDQyLDAuMDA4IDAuMDU5LDAuMDA4IDAu
+       MTE3LDAuMDEzIDAuMTc2LDAuMDEzIGggMC4wMDEgMC4wMDEgYyAxMGUtNCwwIDAuMDAyLDAg
+       MC4wMDMsMCAwLjA3OCwwIDAuMTU1LC0wLjAxIDAuMjMyLC0wLjAyNCAwLjAxMywtMC4wMDIg
+       MC4wMjYsLTAuMDAzIDAuMDM5LC0wLjAwNiAwLjAxLC0wLjAwMiAwLjAxOSwtMC4wMDYgMC4w
+       MjksLTAuMDA4IDAuMDcsLTAuMDE3IDAuMTQsLTAuMDM3IDAuMjA3LC0wLjA2NSAwLjAwNywt
+       MC4wMDMgMC4wMTQsLTAuMDA3IDAuMDIxLC0wLjAxIDAuMDA0LC0wLjAwMiAwLjAwOCwtMC4w
+       MDQgMC4wMTIsLTAuMDA2IDAuMDA2LC0wLjAwMyAwLjAxMiwtMC4wMDMgMC4wMTgsLTAuMDA2
+       IEwgOTcuMjM4LDc1LjMxNyBDIDk3LjcwMyw3NS4wOTggOTgsNzQuNjMxIDk4LDc0LjExNyBW
+       IDM4LjAzNCBDIDk4LDM4LjAyOCA5Ny45OTgsMzguMDIzIDk3Ljk5OCwzOC4wMTcgOTcuOTk3
+       LDM3Ljk0MyA5Ny45ODksMzcuODcxIDk3Ljk3NiwzNy44IFogbSAtNjAuNzYyMzg1LDQwLjYx
+       NzA0OCAtNy42MTQsMy42NjYgMy45NzIsMS45ODYgMy42NDEsLTEuOTg2IHYgNi4yOSBMIDMu
+       MzQxMDYzMiw3MS40Mzc3MSB2IC05LjgyOSBsIDguNjc3NTUxOCw0LjI0MTMzOCAtNy4yNTY5
+       OTk3LDMuMzUgMy45NzIsMS45ODYgNy4yNjg5OTk3LC0zLjM3OCA0LjMxMywyLjA1MSAtNy40
+       ODcsMy40NTYgMy45NzIsMS45ODYgNy41MDMsLTMuNDgyIDQuNjIxLDIuMzQ0IC03LjM4MSwz
+       LjQwNyAzLjk3MiwxLjk4NiA3LjM5NSwtMy40MzQgNC4zMDMsMi4xMTEgeiBNIDY1LjIyOCw3
+       Ni45MzkgMzkuODYxNjE1LDg4LjIxNjA0OCB2IC0xNi41NyBMIDY1LjIyOCw2MC4zNyBaIE0g
+       My4zNDEwNjMyLDU4LjUyNzcxIHYgLTMuMzEgTCAzNy4yMTM2MTUsNzEuODIxMDQ4IHYgMy4z
+       MSB6IgogICAgICAgICBpZD0icGF0aDM1MDIiCiAgICAgICAgIHN0eWxlPSJmaWxsOiM1NjM0
+       N2M7ZmlsbC1vcGFjaXR5OjEiCiAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1
+       cmU9IjAiIC8+CiAgICA8L2c+CiAgICA8cG9seWdvbgogICAgICAgcG9pbnRzPSI0NS4zNjYs
+       NTYuMjQxIDM5LjA3Niw1OS4yMiAzMy4xMTcsNTYuMjQxIDM5LjQwNyw1My4yNjIgIgogICAg
+       ICAgdHJhbnNmb3JtPSJyb3RhdGUoNjMuNDAwMDAxLDQ4LjQzMTE1LDQ4Ljg5MjU4OSkiCiAg
+       ICAgICBpZD0icG9seWdvbjM1MDYiCiAgICAgICBzdHlsZT0iZmlsbDojNTYzNDdjO2ZpbGwt
+       b3BhY2l0eToxIiAvPgogICAgPHBvbHlnb24KICAgICAgIHBvaW50cz0iMjkuMTQ1LDQ3LjYz
+       NCAzNS4xMDMsNTAuNjEzIDI4LjgxNCw1My41OTMgMjIuODU1LDUwLjYxMyAiCiAgICAgICB0
+       cmFuc2Zvcm09InJvdGF0ZSg2My40MDAwMDEsNDguNDE0NzkzLDQ4LjQxMzQwMykiCiAgICAg
+       ICBpZD0icG9seWdvbjM1MDgiCiAgICAgICBzdHlsZT0iZmlsbDojNTYzNDdjO2ZpbGwtb3Bh
+       Y2l0eToxIiAvPgogICAgPGcKICAgICAgIHRyYW5zZm9ybT0ibWF0cml4KDAsLTAuMjQ5MjQ3
+       NSwwLjE5NTQ3Njg2LDAuMTYxMTQxNzksNzEuMDA1OTg0LDYyLjE5Mjk2OSkiCiAgICAgICBp
+       ZD0iQ2FwdGlvbnMiCiAgICAgICBzdHlsZT0iZmlsbDojNTYzNDdjO2ZpbGwtb3BhY2l0eTox
+       IiAvPgogICAgPGcKICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyMi4xMDk4NiwtNTUu
+       MTExMTY4KSIKICAgICAgIGlkPSJDYXB0aW9ucy03IgogICAgICAgc3R5bGU9ImZpbGw6IzU2
+       MzQ3YztmaWxsLW9wYWNpdHk6MSIgLz4KICAgIDxwYXRoCiAgICAgICBkPSJtIDQ1LjA1ODE5
+       MywzNC4zNDc1ODUgYyAyLjEyNDM5OSwyLjcwNDA5OCA0LjI5NTE1Nyw3Ljk4NTQzNyA0LjI5
+       NTE1NywxMi44NjU1ODcgMCw0Ljg3ODE4IC0yLjE3MDc1OCw2LjU0MjAyNSAtNC4yOTUxNTcs
+       NS43MDM5NDEgMCwtMS45OTgwNTUgMCwtMTYuNzk1MDg0IDAsLTE4LjU2OTUyOCB6IgogICAg
+       ICAgaWQ9InBhdGg0ODE4LTItNC0zIgogICAgICAgc3R5bGU9ImZpbGw6IzU2MzQ3YztmaWxs
+       LW9wYWNpdHk6MSIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIC8+
+       CiAgICA8ZwogICAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzQuOTM2Mjk3LDEwOS43MjIy
+       MSkiCiAgICAgICBpZD0iWW91cl9JY29uIgogICAgICAgc3R5bGU9ImZpbGw6IzU2MzQ3Yztm
+       aWxsLW9wYWNpdHk6MSIgLz4KICA8L2c+Cjwvc3ZnPgo=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>Participants Bill of Rights</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">We respect you and appreciate your time.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Everyone participating in an interview with Tails has the following rights:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:list xml:id="list9001317281183657516" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P2"><text:span text:style-name="T1">I can ask questions about the interview, the organization, or the interviewer at any time.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P2"><text:span text:style-name="T1">I do not have to answer any question that I do not want to.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P2"><text:span text:style-name="T1">I can refuse to be video or audio recorded and I will still be compensated.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P2"><text:span text:style-name="T1">I can leave at any time and I will still be compensated.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P2"><text:span text:style-name="T1">I must approve the use of any photos, audio, videos or anonymized quotes that are used publicly, whether on a website, on a blog, or in the press.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Once a photo, video or quote has been published, I have the right to request it be taken down at any point in the future.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">You can reach Tails anytime by emailing tails@boum.org.</text:p>
+  </office:text>
+ </office:body>
+</office:document>
