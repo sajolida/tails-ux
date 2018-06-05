@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Debian user</meta:initial-creator><meta:creation-date>2015-03-25T15:55:10</meta:creation-date><dc:date>2018-05-15T19:40:58.979697756</dc:date><meta:editing-duration>P1DT6H58M48S</meta:editing-duration><meta:editing-cycles>440</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="401" meta:object-count="0"/></office:meta>
+ <office:meta><meta:initial-creator>Debian user</meta:initial-creator><meta:creation-date>2015-03-25T15:55:10</meta:creation-date><dc:date>2018-06-05T15:29:56.825062392</dc:date><meta:editing-duration>P1DT10H33M22S</meta:editing-duration><meta:editing-cycles>450</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="433" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">31989</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">39534</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">37918</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
@@ -48,12 +48,12 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="issues">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">2</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">0</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
@@ -65,7 +65,7 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">issues</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">961</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1537</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -110,7 +110,7 @@
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">HL-2030</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HL-L2300D</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
@@ -125,7 +125,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">mQH+/0hMLTIwMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITC0yMDMwAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAuwAAAAAAAgAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SEwtMjAzMApvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQASW5wdXRTbG90OmF1dG8AABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kAH+/0hMLUwyMzAwRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITC1MMjMwMEQAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9SEwtTDIzMDBECm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpMZXR0ZXIAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -193,7 +193,7 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="43.2pt"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="249.31pt"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="463.15pt"/>
   </style:style>
   <style:style style:name="co5" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
@@ -452,13 +452,35 @@
    <style:table-cell-properties fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="ce53" style:family="table-cell" style:parent-style-name="Default">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:table-cell-properties fo:background-color="#ff6600"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce54" style:family="table-cell" style:parent-style-name="Default">
-   <style:text-properties style:use-window-font-color="true" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="ce55" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ff6600"/>
+  </style:style>
+  <style:style style:name="ce56" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffcc00"/>
+  </style:style>
+  <style:style style:name="ce57" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffcc00"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce58" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ff6600"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce59" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties style:use-window-font-color="true"/>
+  </style:style>
+  <style:style style:name="ce60" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffcc00"/>
+   <style:text-properties style:use-window-font-color="true"/>
+  </style:style>
+  <style:style style:name="ce61" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
@@ -506,7 +528,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-05-16">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="15:21:11.133490453">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-06-05">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="11:55:18.362970357">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -696,12 +718,16 @@
      <table:table-cell table:style-name="ce19" office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19"/>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I11]/[.J11]" office:value-type="float" office:value="18" calcext:value-type="float">
+      <text:p>18</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>#11013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>Revert #11013</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce8" table:number-columns-repeated="1011"/>
@@ -720,10 +746,10 @@
      <table:table-cell table:number-columns-repeated="3" table:style-name="ce20" office:value-type="string" calcext:value-type="string">
       <text:p>&apos;’</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" table:style-name="ce53" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce54" office:value-type="string" calcext:value-type="string">
       <text:p>&apos;’</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce53" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce54" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
@@ -741,8 +767,12 @@
      <table:table-cell table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19"/>
-     <table:table-cell/>
+     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I13]/[.J13]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
       <text:p>#9554</text:p>
      </table:table-cell>
@@ -770,10 +800,10 @@
      <table:table-cell table:formula="of:=6*[.I14]/[.J14]" office:value-type="float" office:value="12" calcext:value-type="float">
       <text:p>12</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>#15571</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>Improve SEO when people search for &quot;root&quot; instead of &quot;administration&quot;</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
@@ -793,7 +823,12 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=6*[.I15]/[.J15]" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>#15583</text:p>
      </table:table-cell>
@@ -810,14 +845,16 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce28"/>
      <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:formula="of:=6*[.I16]/[.J16]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
       <text:p>#15582</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Avoid displaying <text:span text:style-name="T1">file</text:span><text:span text:style-name="T2"> URLs to users</text:span></text:p>
+     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string"><text:p>Avoid displaying <text:span text:style-name="T1">file</text:span><text:span text:style-name="T2"> URLs to users</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -846,14 +883,16 @@
      <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce47"/>
      <table:table-cell table:style-name="ce19"/>
-     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I19]/[.J19]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce57" office:value-type="string" calcext:value-type="string">
       <text:p>#15584</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce57" office:value-type="string" calcext:value-type="string">
       <text:p>Wrap apt to download lists if there are none</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce8" table:number-columns-repeated="1011"/>
@@ -943,7 +982,12 @@
      <table:table-cell table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I25]/[.J25]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
       <text:p>#11529</text:p>
      </table:table-cell>
@@ -1040,11 +1084,16 @@
      <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=6*[.I30]/[.J30]" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>#8897</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>The link to persistence documentation in tails-persistence-setup doesn&apos;t trigger any user-visible action</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
@@ -1061,7 +1110,12 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=6*[.I31]/[.J31]" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>#15028</text:p>
      </table:table-cell>
@@ -1132,11 +1186,13 @@
      <table:table-cell table:style-name="ce19" office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce19"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce8"/>
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
       <text:p>?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" table:number-columns-repeated="1012"/>
+     <table:table-cell table:style-name="ce8" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
@@ -1152,12 +1208,11 @@
      <table:table-cell table:style-name="ce19" office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>?</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>Report to GNOME that there is no signifier when notifications are hidden in tray?</text:p>
+     <table:table-cell table:style-name="ce19"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce53"/>
+     <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
+      <text:p>This is fixed already in new version of GNOME</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce8" table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1175,11 +1230,11 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>?</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1012"/>
+     <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8"/>
@@ -1208,10 +1263,12 @@
      <table:table-cell table:style-name="ce43"/>
      <table:table-cell table:style-name="ce47"/>
      <table:table-cell table:style-name="ce19"/>
-     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I42]/[.J42]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
       <text:p>#15573</text:p>
      </table:table-cell>
@@ -1230,10 +1287,12 @@
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce42"/>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:formula="of:=6*[.I43]/[.J43]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>#15586</text:p>
      </table:table-cell>
@@ -1269,11 +1328,16 @@
      <table:table-cell table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I46]/[.J46]" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>#15574</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>Improve scanability of instructions to configuration administration password</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce8" table:number-columns-repeated="1011"/>
@@ -1304,14 +1368,19 @@
      <table:table-cell table:style-name="ce22" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce54" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I49]/[.J49]" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce58" office:value-type="string" calcext:value-type="string">
       <text:p>#15575</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce58" office:value-type="string" calcext:value-type="string">
       <text:p>Point to /doc instead of /getting_started from &quot;Tails documentation&quot; desktop launcher</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce61" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -1326,15 +1395,19 @@
      <table:table-cell table:style-name="ce23" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce23"/>
-     <table:table-cell table:style-name="ce22"/>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=6*[.I50]/[.J50]" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>#15576</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>Add back the sidebar on the offline documentation browser</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -1357,13 +1430,13 @@
      <table:table-cell table:formula="of:=6*[.I51]/[.J51]" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>#15577</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>Have tabs in the offline documentation browser</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -1375,10 +1448,10 @@
      <table:table-cell table:style-name="ce23" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce44"/>
      <table:table-cell table:style-name="ce23" table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1012"/>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1012"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" table:number-columns-repeated="7"/>
@@ -1453,10 +1526,10 @@
      <table:table-cell table:number-columns-repeated="3" table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>&apos;’</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>&apos;’</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" table:number-columns-repeated="7"/>
@@ -1479,11 +1552,11 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="4"/>
      <table:table-cell table:style-name="ce46"/>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>?</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1012"/>
+     <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
@@ -1499,11 +1572,16 @@
      <table:table-cell table:style-name="ce19" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:formula="of:=6*[.I61]/[.J61]" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce57" office:value-type="string" calcext:value-type="string">
       <text:p>#15578</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce57" office:value-type="string" calcext:value-type="string">
       <text:p>Explain better what removing a package means</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce8" table:number-columns-repeated="1011"/>
@@ -1536,11 +1614,11 @@
       <text:p>M3</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce28"/>
-     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:number-columns-repeated="9"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>?</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1012"/>
+     <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string"><text:p>Unlock<text:span text:style-name="T2"> in AS doesn’t say when</text:span></text:p>
@@ -1560,10 +1638,10 @@
      <table:table-cell table:formula="of:=6*[.I64]/[.J64]" office:value-type="float" office:value="12" calcext:value-type="float">
       <text:p>12</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
       <text:p>#15580</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
       <text:p>Explain when &quot;unlock your persistent storage&quot; should happen</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
@@ -1581,11 +1659,16 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=6*[.I65]/[.J65]" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
       <text:p>#15581</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
       <text:p>Remove and Cancel buttons don&apos;t work after escaping password prompt</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
@@ -1615,15 +1698,19 @@
      <table:table-cell table:style-name="ce23" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce23"/>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=6*[.I68]/[.J68]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>#9473</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>Improve &quot;Unable to connect&quot; error message from Tor Browser</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -1639,10 +1726,10 @@
      <table:table-cell table:number-columns-repeated="3" table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>&apos;’</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>&apos;’</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -1659,14 +1746,19 @@
      <table:table-cell table:style-name="ce23" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
-      <text:p>#15101</text:p>
+     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
-      <text:p>No feedback when opening an application</text:p>
+     <table:table-cell table:formula="of:=6*[.I70]/[.J70]" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce60" office:value-type="string" calcext:value-type="string">
+      <text:p>#15546</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce60" office:value-type="string" calcext:value-type="string">
+      <text:p>Add feedback when opening Additional Software from Persistence setup</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -1678,15 +1770,13 @@
      <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce41"/>
      <table:table-cell table:style-name="ce44"/>
-     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce59"/>
+     <table:table-cell table:style-name="ce59" office:value-type="string" calcext:value-type="string">
       <text:p>?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:number-columns-repeated="1012"/>
+     <table:table-cell table:style-name="ce59" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="1024"/>
