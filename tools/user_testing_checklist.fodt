@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-01-27T14:44:31.611559724</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-05-15T19:28:05.983822769</dc:date><meta:editing-duration>PT20H1M24S</meta:editing-duration><meta:editing-cycles>41</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="25" meta:word-count="129" meta:character-count="521" meta:non-whitespace-character-count="421"/></office:meta>
+ <office:meta><meta:creation-date>2018-01-27T14:44:31.611559724</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-06-09T13:09:15.619526951</dc:date><meta:editing-duration>PT21H24M15S</meta:editing-duration><meta:editing-cycles>43</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="25" meta:word-count="129" meta:character-count="521" meta:non-whitespace-character-count="421"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">15240</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">25402</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">13707</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">40642</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16194</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3905</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">19935</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15349</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">4145</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">15240</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">25400</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">28945</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">40640</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">16193</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -69,7 +69,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4690164</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4772432</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -238,20 +238,35 @@
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="DejaVu Sans" fo:font-size="24pt" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="000c26e7" officeooo:paragraph-rsid="000c26e7" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0044d0c5" officeooo:paragraph-rsid="0044d0c5"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0044d0c5"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0045cc73"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="004790f4"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="004790f4"/>
+   <style:text-properties style:font-name="DejaVu Sans" fo:font-size="24pt" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="0044d0c5" officeooo:paragraph-rsid="000c26e7" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties style:font-name="DejaVu Sans" fo:font-size="16pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0044d0c5" officeooo:paragraph-rsid="0044d0c5" style:font-size-asian="16pt" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties style:font-name="DejaVu Sans" fo:font-size="16pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0044d0c5" officeooo:paragraph-rsid="004790f4" style:font-size-asian="16pt" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="DejaVu Sans" fo:font-size="16pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0044d0c5" officeooo:paragraph-rsid="004790f4" style:font-size-asian="16pt" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="0045cc73"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0044d0c5" officeooo:paragraph-rsid="0044d0c5"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="002acd10"/>
@@ -275,58 +290,6 @@
    <style:text-properties style:font-name="DejaVu Sans" fo:font-size="16pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0045cc73" style:font-size-asian="16pt" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-weight-complex="normal"/>
   </style:style>
   <text:list-style style:name="L1">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.25in" fo:text-indent="-0.25in" fo:margin-left="0.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L2">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
@@ -398,93 +361,93 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P4"><text:span text:style-name="T2">Checklist for user testing</text:span></text:p>
+   <text:p text:style-name="P9">Checklist for user testing</text:p>
    <text:p text:style-name="P1"/>
-   <text:list xml:id="list7279893768184846574" text:style-name="L2">
+   <text:list xml:id="list8304105924187925078" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Reset</text:span></text:p>
+     <text:p text:style-name="P10">[ <text:s/>] Reset</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T3">] Intro</text:span></text:p>
+     <text:p text:style-name="P14"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T3">] Intro</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Testing their stuff</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Testing their stuff</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Duration</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Duration</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Compensation</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Compensation</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Bill of Rights</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Bill of Rights</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T3">[ <text:s/>] Protocol</text:span></text:p>
+     <text:p text:style-name="P10">[ <text:s/>] Protocol</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Think aloud</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Think aloud</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Not testing you</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Not testing you</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P5"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T3">] Answer as much as you want</text:span></text:p>
+       <text:p text:style-name="P14"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T3">] Answer as much as you want</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T3">] Recording</text:span></text:p>
+     <text:p text:style-name="P14"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T3">] Recording</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Check</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Check</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Start</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] Start</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Demographics</text:span></text:p>
+     <text:p text:style-name="P10">[ <text:s/>] Demographics</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P5"><text:span text:style-name="T3">Relationship with Tails</text:span></text:p>
+       <text:p text:style-name="P10">Relationship with Tails</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P5"><text:span text:style-name="T3">Operating System</text:span></text:p>
+       <text:p text:style-name="P10">Operating System</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P5"><text:span text:style-name="T3">Occupation</text:span></text:p>
+       <text:p text:style-name="P10">Occupation</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P5"><text:span text:style-name="T3">One thing you would change in Tails</text:span></text:p>
+       <text:p text:style-name="P10">One thing you would change in Tails</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Activities</text:span></text:p>
+     <text:p text:style-name="P10">[ <text:s/>] Activities</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] Debrief</text:span></text:p>
+     <text:p text:style-name="P10">[ <text:s/>] Debrief</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P6"><text:span text:style-name="T4">[ <text:s/>] System Usability Scale</text:span></text:p>
+       <text:p text:style-name="P10">[ <text:s/>] System Usability Scale</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P7"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T7">] </text:span><text:span text:style-name="T5">Go back to k</text:span><text:span text:style-name="T7">ey points</text:span></text:p>
+       <text:p text:style-name="P13"><text:span text:style-name="T4">[ <text:s/></text:span><text:span text:style-name="T7">] </text:span><text:span text:style-name="T5">Go back to k</text:span><text:span text:style-name="T7">ey points</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P7"><text:span text:style-name="T7">[ <text:s/>] Ideas as a mean to understand </text:span><text:span text:style-name="T6">problems </text:span><text:span text:style-name="T7">better</text:span></text:p>
+       <text:p text:style-name="P13"><text:span text:style-name="T7">[ <text:s/>] Ideas as a mean to understand </text:span><text:span text:style-name="T6">problems </text:span><text:span text:style-name="T7">better</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P8"><text:span text:style-name="T4">[ <text:s/>] More participants to contact</text:span></text:p>
+       <text:p text:style-name="P11">[ <text:s/>] More participants to contact</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P9"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P12"/>
   </office:text>
  </office:body>
 </office:document>
